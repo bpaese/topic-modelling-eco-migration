@@ -1,0 +1,548 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Aria and Cuccurullo}{Aria and
+  Cuccurullo}{2017}]{aria_bibliometrix_2017}
+Aria, M. and C.~Cuccurullo (2017).
+\newblock \textit{bibliometrix}: {An} {R}-tool for comprehensive science
+  mapping analysis.
+\newblock {\em Journal of Informetrics\/}~{\em 11\/}(4), 959--975.
+
+\bibitem[\protect\citeauthoryear{Arun, Suresh, Veni~Madhavan, and
+  Narasimha~Murthy}{Arun et~al.}{2010}]{arun_finding_2010}
+Arun, R., V.~Suresh, C.~E. Veni~Madhavan, and M.~N. Narasimha~Murthy (2010).
+\newblock On {Finding} the {Natural} {Number} of {Topics} with {Latent}
+  {Dirichlet} {Allocation}: {Some} {Observations}.
+\newblock In {\em Lecture {Notes} in {Computer} {Science}}, pp.\  391--402.
+  Berlin, Heidelberg: Springer Berlin Heidelberg.
+\newblock ISSN: 0302-9743, 1611-3349.
+
+\bibitem[\protect\citeauthoryear{Blei and Lafferty}{Blei and
+  Lafferty}{2009}]{blei_topic_2009}
+Blei, D.~M. and J.~D. Lafferty (2009).
+\newblock Topic {Models}.
+\newblock In {\em Text mining: classification, clustering, and applications},
+  Chapman \& {Hall}/{CRC} data mining and knowledge discovery series, pp.\
+  71--93. Boca Raton, FL: CRC Press.
+
+\bibitem[\protect\citeauthoryear{Blei, Ng, and Jordan}{Blei
+  et~al.}{2003}]{blei_latent_2003}
+Blei, D.~M., A.~Y. Ng, and M.~I. Jordan (2003).
+\newblock Latent dirichlet allocation.
+\newblock {\em The Journal of Machine Learning Research\/}~{\em 3\/}(null),
+  993--1022.
+
+\bibitem[\protect\citeauthoryear{Borjas}{Borjas}{1987}]{borjas_self-selection_1987}
+Borjas, G.~J. (1987).
+\newblock Self-{Selection} and the {Earnings} of {Immigrants}.
+\newblock {\em The American Economic Review\/}~{\em 77\/}(4), 531--553.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Borjas}{Borjas}{1991}]{borjas_immigration_1991}
+Borjas, G.~J. (1991).
+\newblock Immigration and {Self}-{Selection}.
+\newblock {\em NBER Chapters\/}, 29--76.
+\newblock Publisher: National Bureau of Economic Research, Inc.
+
+\bibitem[\protect\citeauthoryear{Borjas}{Borjas}{1994}]{borjas_economics_1994}
+Borjas, G.~J. (1994).
+\newblock The {Economics} of {Immigration}.
+\newblock {\em Journal of Economic Literature\/}~{\em 32\/}(4), 1667--1717.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Brettell and Hollifield}{Brettell and
+  Hollifield}{2015}]{brettell_introduction_2015}
+Brettell, C.~B. and J.~F. Hollifield (2015).
+\newblock Introduction.
+\newblock In {\em Migration {Theory}: {Talking} across {Disciplines}\/} (3rd
+  ed.)., pp.\  344. New York: Routledge.
+
+\bibitem[\protect\citeauthoryear{Cao, Xia, Li, Zhang, and Tang}{Cao
+  et~al.}{2009}]{cao_density-based_2009}
+Cao, J., T.~Xia, J.~Li, Y.~Zhang, and S.~Tang (2009).
+\newblock A density-based method for adaptive {LDA} model selection.
+\newblock {\em Neurocomputing\/}~{\em 72\/}(7-9), 1775--1781.
+\newblock Publisher: Elsevier BV.
+
+\bibitem[\protect\citeauthoryear{Card}{Card}{2005}]{card_is_2005}
+Card, D. (2005).
+\newblock Is the {New} {Immigration} {Really} so {Bad}?
+\newblock {\em The Economic Journal\/}~{\em 115\/}(507), F300--F323.
+\newblock Publisher: [Royal Economic Society, Wiley].
+
+\bibitem[\protect\citeauthoryear{Castles, Haas, and Miller}{Castles
+  et~al.}{2014}]{castles_migration_2014}
+Castles, S., H.~d. Haas, and M.~J. Miller (2014).
+\newblock Migration in {Europe} since 1945.
+\newblock In {\em The age of migration: international population movements in
+  the modern world\/} (Fifth edition ed.). New York: Guilford Press.
+\newblock OCLC: 846540484.
+
+\bibitem[\protect\citeauthoryear{Chang, Gerrish, Wang, Boyd-graber, and
+  Blei}{Chang et~al.}{2009}]{chang_reading_2009}
+Chang, J., S.~Gerrish, C.~Wang, J.~Boyd-graber, and D.~Blei (2009).
+\newblock Reading {Tea} {Leaves}: {How} {Humans} {Interpret} {Topic} {Models}.
+\newblock In {\em Advances in {Neural} {Information} {Processing} {Systems}},
+  Volume~22. Curran Associates, Inc.
+
+\bibitem[\protect\citeauthoryear{Chiswick}{Chiswick}{1978}]{chiswick_effect_1978}
+Chiswick, B.~R. (1978).
+\newblock The {Effect} of {Americanization} on the {Earnings} of {Foreign}-born
+  {Men}.
+\newblock {\em Journal of Political Economy\/}~{\em 86\/}(5), 897--921.
+\newblock Publisher: University of Chicago Press.
+
+\bibitem[\protect\citeauthoryear{Cohen}{Cohen}{1996}]{cohen_introduction_1996}
+Cohen, R. (1996).
+\newblock Introduction.
+\newblock In {\em Theories of {Migration}}, The {International} {Library} of
+  {Studies} on {Migration}, pp.\  544. Cheltenham: Edward Elgar Publishing
+  Limited.
+
+\bibitem[\protect\citeauthoryear{Cohen}{Cohen}{2008}]{cohen_global_2008}
+Cohen, R. (2008).
+\newblock {\em Global {Diasporas}: {An} {Introduction}\/} (2 ed.).
+\newblock London: Routledge.
+
+\bibitem[\protect\citeauthoryear{Corden and Findlay}{Corden and
+  Findlay}{1975}]{corden_urban_1975}
+Corden, W.~M. and R.~Findlay (1975).
+\newblock Urban {Unemployment}, {Intersectoral} {Capital} {Mobility} and
+  {Development} {Policy}.
+\newblock {\em Economica\/}~{\em 42\/}(165), 59--78.
+\newblock Publisher: [London School of Economics, Wiley, London School of
+  Economics and Political Science, Suntory and Toyota International Centres for
+  Economics and Related Disciplines].
+
+\bibitem[\protect\citeauthoryear{Cushing and Poot}{Cushing and
+  Poot}{2004}]{cushing_crossing_2004}
+Cushing, B. and J.~Poot (2004).
+\newblock Crossing boundaries and borders: {Regional} science advances in
+  migration modelling.
+\newblock {\em Papers in Regional Science\/}~{\em 83\/}(1), 317--338.
+
+\bibitem[\protect\citeauthoryear{DaVanzo}{DaVanzo}{1978}]{davanzo_does_1978}
+DaVanzo, J. (1978).
+\newblock Does {Unemployment} {Affect} {Migration}? {Evidence} from {Micro}
+  {Data}.
+\newblock {\em The Review of Economics and Statistics\/}~{\em 60\/}(4),
+  504--514.
+\newblock Publisher: The MIT Press.
+
+\bibitem[\protect\citeauthoryear{De~Haas}{De~Haas}{2021}]{de_haas_theory_2021}
+De~Haas, H. (2021).
+\newblock A theory of migration: the aspirations-capabilities framework.
+\newblock {\em CMS\/}~{\em 9\/}(1).
+\newblock Publisher: Springer Science and Business Media LLC.
+
+\bibitem[\protect\citeauthoryear{Deveaud, SanJuan, and Bellot}{Deveaud
+  et~al.}{2014}]{deveaud_accurate_2014}
+Deveaud, R., E.~SanJuan, and P.~Bellot (2014).
+\newblock Accurate and effective latent concept modeling for ad hoc information
+  retrieval.
+\newblock {\em Document numérique\/}~{\em 17\/}(1), 61--84.
+\newblock Publisher: Lavoisier.
+
+\bibitem[\protect\citeauthoryear{Evans and Aceves}{Evans and
+  Aceves}{2016}]{evans_machine_2016}
+Evans, J.~A. and P.~Aceves (2016).
+\newblock Machine {Translation}: {Mining} {Text} for {Social} {Theory}.
+\newblock {\em Annu. Rev. Sociol.\/}~{\em 42\/}(1), 21--50.
+\newblock Publisher: Annual Reviews.
+
+\bibitem[\protect\citeauthoryear{Fields}{Fields}{1975}]{fields_rural-urban_1975}
+Fields, G.~S. (1975).
+\newblock Rural-urban migration, urban unemployment and underemployment, and
+  job-search activity in {LDCs}.
+\newblock {\em Journal of Development Economics\/}~{\em 2\/}(2), 165--187.
+
+\bibitem[\protect\citeauthoryear{Greenwood}{Greenwood}{1975}]{greenwood_research_1975}
+Greenwood, M.~J. (1975).
+\newblock Research on {Internal} {Migration} in the {United} {States}: {A}
+  {Survey}.
+\newblock {\em Journal of Economic Literature\/}~{\em 13\/}(2), 397--433.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Greenwood}{Greenwood}{1985}]{greenwood_human_1985}
+Greenwood, M.~J. (1985).
+\newblock Human {Migration}: {Theory}, {Models}, and {Empirical} {Studies}.
+\newblock {\em Journal of Regional Science\/}~{\em 25\/}(4), 521--544.
+\newblock \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9787.1985.tb00321.x.
+
+\bibitem[\protect\citeauthoryear{Greenwood}{Greenwood}{1997}]{greenwood_internal_1997}
+Greenwood, M.~J. (1997).
+\newblock Internal migration in developed countries.
+\newblock In {\em Handbook of {Population} and {Family} {Economics}}, Volume~1,
+  pp.\  647--720. Elsevier.
+
+\bibitem[\protect\citeauthoryear{Greenwood and Hunt}{Greenwood and
+  Hunt}{2003}]{greenwood_early_2003}
+Greenwood, M.~J. and G.~L. Hunt (2003).
+\newblock The {Early} {History} {Of} {Migration} {Research}.
+\newblock {\em International Regional Science Review\/}~{\em 26\/}(1), 3--37.
+
+\bibitem[\protect\citeauthoryear{Greenwood and McDowell}{Greenwood and
+  McDowell}{1986}]{greenwood_factor_1986}
+Greenwood, M.~J. and J.~M. McDowell (1986).
+\newblock The {Factor} {Market} {Consequences} of {U}.{S}. {Immigration}.
+\newblock {\em Journal of Economic Literature\/}~{\em 24\/}(4), 1738--1772.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Griffiths and Steyvers}{Griffiths and
+  Steyvers}{2004}]{griffiths_finding_2004}
+Griffiths, T.~L. and M.~Steyvers (2004).
+\newblock Finding scientific topics.
+\newblock {\em Proceedings of the National Academy of Sciences\/}~{\em
+  101\/}(suppl\_1), 5228--5235.
+\newblock Publisher: Proceedings of the National Academy of Sciences.
+
+\bibitem[\protect\citeauthoryear{Grossman}{Grossman}{1982}]{grossman_substitutability_1982}
+Grossman, J.~B. (1982).
+\newblock The {Substitutability} of {Natives} and {Immigrants} in {Production}.
+\newblock {\em The Review of Economics and Statistics\/}~{\em 64\/}(4),
+  596--603.
+\newblock Publisher: MIT Press.
+
+\bibitem[\protect\citeauthoryear{Grün and Hornik}{Grün and
+  Hornik}{2011}]{grun_topicmodels_2011}
+Grün, B. and K.~Hornik (2011).
+\newblock topicmodels: {An} {R} {Package} for {Fitting} {Topic} {Models}.
+\newblock {\em J. Stat. Soft.\/}~{\em 40\/}(13).
+\newblock Publisher: Foundation for Open Access Statistic.
+
+\bibitem[\protect\citeauthoryear{Harris and Todaro}{Harris and
+  Todaro}{1970}]{harris_migration_1970}
+Harris, J.~R. and M.~P. Todaro (1970).
+\newblock Migration, {Unemployment} and {Development}: {A} {Two}-{Sector}
+  {Analysis}.
+\newblock {\em The American Economic Review\/}~{\em 60\/}(1), 126--142.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Herzog, Schlottmann, and Boehm}{Herzog
+  et~al.}{1993}]{herzog_migration_1993}
+Herzog, H.~W., A.~M. Schlottmann, and T.~P. Boehm (1993).
+\newblock Migration as spatial job-search: a survey of empirical findings.
+\newblock {\em Reg Stud\/}~{\em 27\/}(4), 327--340.
+
+\bibitem[\protect\citeauthoryear{Hicks}{Hicks}{1932}]{hicks_theory_1932}
+Hicks, J.~R. (1932).
+\newblock {\em The {Theory} of {Wages}}.
+\newblock London: Palgrave Macmillan UK.
+
+\bibitem[\protect\citeauthoryear{Jost}{Jost}{2006}]{jost_entropy_2006}
+Jost, L. (2006).
+\newblock Entropy and diversity.
+\newblock {\em Oikos\/}~{\em 113\/}(2), 363--375.
+\newblock \_eprint:
+  https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2006.0030-1299.14714.x.
+
+\bibitem[\protect\citeauthoryear{King}{King}{2002}]{king_towards_2002}
+King, R. (2002).
+\newblock Towards a new map of {European} migration.
+\newblock {\em International Journal of Population Geography\/}~{\em 8\/}(2),
+  89--106.
+\newblock \_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijpg.246.
+
+\bibitem[\protect\citeauthoryear{King}{King}{2012}]{king_theories_2012}
+King, R. (2012).
+\newblock Theories and typologies of migration: an overview and a primer.
+\newblock report, University of Sussex.
+\newblock ISSN: 2344-6544.
+
+\bibitem[\protect\citeauthoryear{King and Skeldon}{King and
+  Skeldon}{2010}]{king_mind_2010}
+King, R. and R.~Skeldon (2010).
+\newblock ‘{Mind} the {Gap}!’ {Integrating} {Approaches} to {Internal} and
+  {International} {Migration}.
+\newblock {\em Journal of Ethnic and Migration Studies\/}~{\em 36\/}(10),
+  1619--1646.
+\newblock Publisher: Informa UK Limited.
+
+\bibitem[\protect\citeauthoryear{LaLonde and Topel}{LaLonde and
+  Topel}{1991a}]{lalonde_immigrants_1991}
+LaLonde, R.~J. and R.~H. Topel (1991a).
+\newblock Immigrants in the {American} {Labor} {Market}: {Quality},
+  {Assimilation}, and {Distributional} {Effects}.
+\newblock {\em The American Economic Review\/}~{\em 81\/}(2), 297--302.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{LaLonde and Topel}{LaLonde and
+  Topel}{1991b}]{lalonde_labor_1991}
+LaLonde, R.~J. and R.~H. Topel (1991b).
+\newblock Labor {Market} {Adjustments} to {Increased} {Immigration}.
+\newblock {\em NBER Chapters\/}, 167--199.
+\newblock Publisher: National Bureau of Economic Research, Inc.
+
+\bibitem[\protect\citeauthoryear{Lalonde and Topel}{Lalonde and
+  Topel}{1997}]{lalonde_economic_1997}
+Lalonde, R.~J. and R.~H. Topel (1997).
+\newblock Economic impact of international migration and the economic
+  performance of migrants.
+\newblock In {\em Handbook of {Population} and {Family} {Economics}}, Volume~1,
+  pp.\  799--850. Elsevier.
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{1966}]{lee_theory_1966}
+Lee, E.~S. (1966).
+\newblock A theory of migration.
+\newblock {\em Demography\/}~{\em 3\/}(1), 47--57.
+\newblock Publisher: Duke University Press.
+
+\bibitem[\protect\citeauthoryear{Levy, Pisarevskaya, and Scholten}{Levy
+  et~al.}{2020}]{levy_between_2020}
+Levy, N., A.~Pisarevskaya, and P.~Scholten (2020).
+\newblock Between fragmentation and institutionalisation: the rise of migration
+  studies as a research field.
+\newblock {\em Comparative Migration Studies\/}~{\em 8\/}(1), 24.
+
+\bibitem[\protect\citeauthoryear{Lewis}{Lewis}{1954}]{lewis_economic_1954}
+Lewis, W.~A. (1954).
+\newblock Economic {Development} with {Unlimited} {Supplies} of {Labour}.
+\newblock {\em The Manchester School\/}~{\em 22\/}(2), 139--191.
+\newblock Publisher: Wiley.
+
+\bibitem[\protect\citeauthoryear{Lucas}{Lucas}{1997}]{lucas_internal_1997}
+Lucas, R. (1997).
+\newblock Internal migration in developing countries.
+\newblock In {\em Handbook of {Population} and {Family} {Economics}}, pp.\
+  721--798. Elsevier.
+\newblock ISSN: 1574-003X.
+
+\bibitem[\protect\citeauthoryear{Mabogunje}{Mabogunje}{1970}]{mabogunje_systems_1970}
+Mabogunje, A.~L. (1970).
+\newblock Systems {Approach} to a {Theory} of {Rural}-{Urban} {Migration}.
+\newblock {\em Geographical Analysis\/}~{\em 2\/}(1), 1--18.
+\newblock \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1538-4632.1970.tb00140.x.
+
+\bibitem[\protect\citeauthoryear{Martiniello and Rath}{Martiniello and
+  Rath}{2012}]{martiniello_introduction_2012}
+Martiniello, M. and J.~Rath (2012).
+\newblock An {Introduction} to {International} {Migration} {Studies}:
+  {European} {Perspectives}.
+\newblock In {\em An {Introduction} to {International} {Migration} {Studies}},
+  pp.\  15--22. Amsterdam University Press.
+
+\bibitem[\protect\citeauthoryear{Massey, Arango, Hugo, Kouaouci, Pellegrino,
+  and Taylor}{Massey et~al.}{1993}]{massey_theories_1993}
+Massey, D.~S., J.~Arango, G.~Hugo, A.~Kouaouci, A.~Pellegrino, and J.~E. Taylor
+  (1993).
+\newblock Theories of {International} {Migration}: {A} {Review} and
+  {Appraisal}.
+\newblock {\em Population and Development Review\/}~{\em 19\/}(3), 431.
+\newblock Publisher: JSTOR.
+
+\bibitem[\protect\citeauthoryear{Massey, Arango, Hugo, Kouaouci, Pellegrino,
+  and Taylor}{Massey et~al.}{1994}]{massey_evaluation_1994}
+Massey, D.~S., J.~Arango, G.~Hugo, A.~Kouaouci, A.~Pellegrino, and J.~E. Taylor
+  (1994).
+\newblock An {Evaluation} of {International} {Migration} {Theory}: {The}
+  {North} {American} {Case}.
+\newblock {\em Population and Development Review\/}~{\em 20\/}(4), 699.
+\newblock Publisher: JSTOR.
+
+\bibitem[\protect\citeauthoryear{Mincer}{Mincer}{1978}]{mincer_family_1978}
+Mincer, J. (1978).
+\newblock Family {Migration} {Decisions}.
+\newblock {\em Journal of Political Economy\/}~{\em 86\/}(5), 749--773.
+\newblock Publisher: University of Chicago Press.
+
+\bibitem[\protect\citeauthoryear{Navratil and Doyle}{Navratil and
+  Doyle}{1977}]{navratil_socioeconomic_1977}
+Navratil, F.~J. and J.~J. Doyle (1977).
+\newblock The {Socioeconomic} {Determinants} of {Migration} and the {Level} of
+  {Aggregation}.
+\newblock {\em Southern Economic Journal\/}~{\em 43\/}(4), 1547--1559.
+\newblock Publisher: Southern Economic Association.
+
+\bibitem[\protect\citeauthoryear{Pedraza-Bailey}{Pedraza-Bailey}{1990}]{pedraza-bailey_immigration_1990}
+Pedraza-Bailey, S. (1990).
+\newblock Immigration {Research}: {A} {Conceptual} {Map}.
+\newblock {\em Social Science History\/}~{\em 14\/}(1), 43.
+
+\bibitem[\protect\citeauthoryear{Piore}{Piore}{1979}]{piore_birds_1979}
+Piore, M.~J. (1979).
+\newblock {\em Birds of {Passage}: {Migrant} {Labor} and {Industrial}
+  {Societies}}.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[\protect\citeauthoryear{Pisarevskaya, Levy, Scholten, and
+  Jansen}{Pisarevskaya et~al.}{2020}]{pisarevskaya_mapping_2020}
+Pisarevskaya, A., N.~Levy, P.~Scholten, and J.~Jansen (2020).
+\newblock Mapping migration studies: {An} empirical analysis of the coming of
+  age of a research field.
+\newblock {\em Migration Studies\/}~{\em 8\/}(3), 455--481.
+
+\bibitem[\protect\citeauthoryear{Ponweiser}{Ponweiser}{2012}]{ponweiser_latent_2012}
+Ponweiser, M. (2012).
+\newblock Latent {Dirichlet} {Allocation} in {R}.
+\newblock Medium: application/pdf.
+
+\bibitem[\protect\citeauthoryear{Portes, McLeod, and Parker}{Portes
+  et~al.}{1978}]{portes_immigrant_1978}
+Portes, A., S.~A. McLeod, and R.~N. Parker (1978).
+\newblock Immigrant {Aspirations}.
+\newblock {\em Sociology of Education\/}~{\em 51\/}(4), 241--260.
+\newblock Publisher: [Sage Publications, Inc., American Sociological
+  Association].
+
+\bibitem[\protect\citeauthoryear{Ranis and Fei}{Ranis and
+  Fei}{1961}]{ranis_theory_1961}
+Ranis, G. and J.~C.~H. Fei (1961).
+\newblock A {Theory} of {Economic} {Development}.
+\newblock {\em The American Economic Review\/}~{\em 51\/}(4), 533--565.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Ravenstein}{Ravenstein}{1885}]{ravenstein_laws_1885}
+Ravenstein, E.~G. (1885).
+\newblock The {Laws} of {Migration}.
+\newblock {\em Journal of the Statistical Society of London\/}~{\em 48\/}(2),
+  167--235.
+\newblock Publisher: [Royal Statistical Society, Oxford University Press].
+
+\bibitem[\protect\citeauthoryear{Ravenstein}{Ravenstein}{1889}]{ravenstein_laws_1889}
+Ravenstein, E.~G. (1889).
+\newblock The {Laws} of {Migration}.
+\newblock {\em Journal of the Royal Statistical Society\/}~{\em 52\/}(2),
+  241--305.
+\newblock Publisher: [Oxford University Press, Royal Statistical Society].
+
+\bibitem[\protect\citeauthoryear{Roy}{Roy}{1951}]{roy_thoughts_1951}
+Roy, A.~D. (1951).
+\newblock Some {Thoughts} on the {Distribution} of {Earnings}.
+\newblock {\em Oxford Economic Papers\/}~{\em 3\/}(2), 135--146.
+\newblock Publisher: Oxford University Press.
+
+\bibitem[\protect\citeauthoryear{Sandell}{Sandell}{1977}]{sandell_women_1977}
+Sandell, S.~H. (1977).
+\newblock Women and the {Economics} of {Family} {Migration}.
+\newblock {\em The Review of Economics and Statistics\/}~{\em 59\/}(4),
+  406--414.
+\newblock Publisher: The MIT Press.
+
+\bibitem[\protect\citeauthoryear{Schiller, Basch, and Blanc-Szanton}{Schiller
+  et~al.}{1992}]{schiller_transnationalism_1992}
+Schiller, N.~G., L.~Basch, and C.~Blanc-Szanton (1992).
+\newblock Transnationalism: {A} {New} {Analytic} {Framework} for
+  {Understanding} {Migration}.
+\newblock {\em Annals of the New York Academy of Sciences\/}~{\em 645\/}(1),
+  1--24.
+\newblock \_eprint:
+  https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1992.tb33484.x.
+
+\bibitem[\protect\citeauthoryear{Scholten, Pisarevskaya, and Levy}{Scholten
+  et~al.}{2022}]{scholten_introduction_2022}
+Scholten, P., A.~Pisarevskaya, and N.~Levy (2022).
+\newblock An {Introduction} to {Migration} {Studies}: {The} {Rise} and {Coming}
+  of {Age} of a {Research} {Field}.
+\newblock In P.~Scholten (Ed.), {\em Introduction to {Migration} {Studies}:
+  {An} {Interactive} {Guide} to the {Literatures} on {Migration} and
+  {Diversity}}, pp.\  3--24. Cham: Springer International Publishing.
+
+\bibitem[\protect\citeauthoryear{Shannon}{Shannon}{1948}]{shannon_mathematical_1948}
+Shannon, C.~E. (1948).
+\newblock A {Mathematical} {Theory} of {Communication}.
+\newblock {\em Bell System Technical Journal\/}~{\em 27\/}(3), 379--423.
+\newblock Publisher: Institute of Electrical and Electronics Engineers (IEEE).
+
+\bibitem[\protect\citeauthoryear{Shields and Shields}{Shields and
+  Shields}{1989}]{shields_emergence_1989}
+Shields, G.~M. and M.~P. Shields (1989).
+\newblock The {Emergence} of {Migration} {Theory} and a {Suggested} {New}
+  {Direction}.
+\newblock {\em Journal of Economic Surveys\/}~{\em 3\/}(4), 277--304.
+\newblock \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-6419.1989.tb00072.x.
+
+\bibitem[\protect\citeauthoryear{Simpson}{Simpson}{1949}]{simpson_measurement_1949}
+Simpson, E.~H. (1949).
+\newblock Measurement of {Diversity}.
+\newblock {\em Nature\/}~{\em 163\/}(4148), 688--688.
+\newblock Publisher: Nature Publishing Group.
+
+\bibitem[\protect\citeauthoryear{Sjaastad}{Sjaastad}{1962}]{sjaastad_costs_1962}
+Sjaastad, L.~A. (1962).
+\newblock The {Costs} and {Returns} of {Human} {Migration}.
+\newblock {\em Journal of Political Economy\/}~{\em 70\/}(5), 80--93.
+\newblock Publisher: The University of Chicago Press.
+
+\bibitem[\protect\citeauthoryear{Stark}{Stark}{1991}]{stark_migration_1991}
+Stark, O. (1991).
+\newblock {\em The migration of labor}.
+\newblock Cambridge (Mass.) Oxford: B. Blackwell.
+
+\bibitem[\protect\citeauthoryear{Stark and Bloom}{Stark and
+  Bloom}{1985}]{stark_new_1985}
+Stark, O. and D.~E. Bloom (1985).
+\newblock The {New} {Economics} of {Labor} {Migration}.
+\newblock {\em The American Economic Review\/}~{\em 75\/}(2), 173--178.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Stark and Levhari}{Stark and
+  Levhari}{1982}]{stark_migration_1982}
+Stark, O. and D.~Levhari (1982).
+\newblock On {Migration} and {Risk} in {LDCs}.
+\newblock {\em Economic Development and Cultural Change\/}~{\em 31\/}(1),
+  191--196.
+\newblock Publisher: University of Chicago Press.
+
+\bibitem[\protect\citeauthoryear{Stark and Lucas}{Stark and
+  Lucas}{1988}]{stark_migration_1988}
+Stark, O. and R.~E.~B. Lucas (1988).
+\newblock Migration, {Remittances}, and the {Family}.
+\newblock {\em Economic Development and Cultural Change\/}~{\em 36\/}(3),
+  465--481.
+\newblock Publisher: University of Chicago Press.
+
+\bibitem[\protect\citeauthoryear{Stewart}{Stewart}{1947}]{stewart_empirical_1947}
+Stewart, J.~Q. (1947).
+\newblock Empirical {Mathematical} {Rules} concerning the {Distribution} and
+  {Equilibrium} of {Population}.
+\newblock {\em Geographical Review\/}~{\em 37\/}(3), 461--485.
+\newblock Publisher: Taylor \& Francis, Ltd.
+
+\bibitem[\protect\citeauthoryear{Taylor}{Taylor}{1999}]{taylor_new_1999}
+Taylor, E.~J. (1999).
+\newblock The {New} {Economics} of {Labour} {Migration} and the {Role} of
+  {Remittances} in the {Migration} {Process}.
+\newblock {\em International Migration\/}~{\em 37\/}(1), 63--88.
+\newblock \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-2435.00066.
+
+\bibitem[\protect\citeauthoryear{Thomas and Znaniecki}{Thomas and
+  Znaniecki}{1927}]{thomas_polish_1927}
+Thomas, W.~I. and F.~Znaniecki (1927).
+\newblock {\em The {Polish} {Peasant} in {Europe} and {America}: {A} {Classic}
+  {Work} in {Immigration} {History}}.
+\newblock University of Illinois Press.
+
+\bibitem[\protect\citeauthoryear{Todaro}{Todaro}{1969}]{todaro_model_1969}
+Todaro, M.~P. (1969).
+\newblock A {Model} of {Labor} {Migration} and {Urban} {Unemployment} in {Less}
+  {Developed} {Countries}.
+\newblock {\em The American Economic Review\/}~{\em 59\/}(1), 138--148.
+\newblock Publisher: American Economic Association.
+
+\bibitem[\protect\citeauthoryear{Todaro}{Todaro}{1980}]{easterlin_internal_1980}
+Todaro, M.~P. (1980).
+\newblock Internal {Migration} in {Developing} {Countries}: {A} {Survey}.
+\newblock In R.~Easterlin (Ed.), {\em Population and economic change in
+  developing countries}. Chicago: Univ. of Chicago Pr.
+\newblock OCLC: 1052756278.
+
+\bibitem[\protect\citeauthoryear{Zipf}{Zipf}{1942}]{zipf_unity_1942}
+Zipf, G.~K. (1942).
+\newblock The {Unity} of {Nature}, {Least}-{Action}, and {Natural} {Social}
+  {Science}.
+\newblock {\em Sociometry\/}~{\em 5\/}(1), 48--62.
+\newblock Publisher: [American Sociological Association, Sage Publications,
+  Inc.].
+
+\bibitem[\protect\citeauthoryear{Zipf}{Zipf}{1946}]{zipf_p1_1946}
+Zipf, G.~K. (1946).
+\newblock The {P1} {P2}/{D} {Hypothesis}: {On} the {Intercity} {Movement} of
+  {Persons}.
+\newblock {\em American Sociological Review\/}~{\em 11\/}(6), 677--686.
+\newblock Publisher: [American Sociological Association, Sage Publications,
+  Inc.].
+
+\end{thebibliography}

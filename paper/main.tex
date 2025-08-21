@@ -1,0 +1,98 @@
+\documentclass[a4paper, 10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+%\usepackage{txfonts} % package for Times font style. Comment on this line if you want the standard LaTeX font.
+\usepackage{indentfirst} % indent firts paragraph line
+\usepackage{geometry}
+
+\geometry{left=2.5cm,right=2cm,top=2.5cm,bottom=2.5cm}
+\setlength{\parindent}{20pt} % Set indentation space
+\setlength{\parskip}{0.05in} % Set space between paragraphs
+\setlength{\intextsep}{24pt} % Set spacing before/after figures
+\renewcommand{\baselinestretch}{1.5} % Set spacing between lines 
+
+\usepackage{graphicx}
+\graphicspath{{../output/figures/}} % Set path for figures input
+\makeatletter
+\def\input@path{{../output/tables/}} % Set path for tables input
+\makeatother
+
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{mathrsfs}
+\usepackage{setspace}
+\usepackage{fullpage}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{url}
+\usepackage{tikz}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{titlesec}
+\usepackage{siunitx}
+\usepackage[normalem]{ulem}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{hhline}
+\usepackage{calc}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{lastpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{threeparttable}
+
+\usepackage{hyperref}
+\hypersetup{
+pdfauthor = {Bruno Paese},
+pdftitle = {Dissertation EGEI Bruno Paese},
+pdfkeywords = {},
+colorlinks=true,
+citecolor=blue,
+linkcolor=blue,
+urlcolor=blue,
+linkbordercolor={0 0 1}
+}
+
+% Citations and bibliography
+\usepackage{natbib}
+\bibliographystyle{chicago}
+
+\title{The evolution of scientific research on the economics of migration}
+\author{Bruno Paese\thanks{Contact: bruno.paese7@gmail.com. This dissertation project is supervised by Prof. Dr. Claire Naiditch.}}
+\date{}
+
+\begin{document}
+
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+
+\maketitle
+
+\input{chapters/introduction}
+
+\input{chapters/lit_review}
+
+\input{chapters/eco_migration}
+
+\input{chapters/methodology}
+
+\input{chapters/data}
+
+\input{chapters/results}
+
+\input{chapters/conclusion}
+
+\newpage
+
+% Bibliography
+\bibliography{references.bib}
+
+\newpage
+
+\input{chapters/appendix}
+
+\end{document}

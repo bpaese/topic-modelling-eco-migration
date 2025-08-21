@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: chicago.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: references.bib
+Warning--I didn't find a database entry for "lalonde_chapter_1997"
+Warning--no number and no volume in borjas_immigration_1991
+Warning--page numbers missing in de_haas_theory_2021
+Warning--page numbers missing in grun_topicmodels_2011
+Warning--no number and no volume in lalonde_labor_1991
+You've used 77 entries,
+            2861 wiz_defined-function locations,
+            1120 strings with 17936 characters,
+and the built_in function-call counts, 52032 in all, are:
+= -- 4588
+> -- 3292
+< -- 12
++ -- 984
+- -- 1182
+* -- 4429
+:= -- 9446
+add.period$ -- 297
+call.type$ -- 77
+change.case$ -- 521
+chr.to.int$ -- 76
+cite$ -- 81
+duplicate$ -- 1490
+empty$ -- 3364
+format.name$ -- 1329
+if$ -- 9660
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 80
+newline$ -- 442
+num.names$ -- 772
+pop$ -- 298
+preamble$ -- 1
+purify$ -- 985
+quote$ -- 0
+skip$ -- 1527
+stack$ -- 0
+substring$ -- 3093
+swap$ -- 508
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1486
+warning$ -- 4
+while$ -- 845
+width$ -- 0
+write$ -- 1149
+(There were 5 warnings)
