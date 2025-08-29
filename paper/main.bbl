@@ -1,5 +1,14 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Ambrosino, Cedrini, Davis, Fiori, Guerzoni,
+  and Nuccio}{Ambrosino et~al.}{2018}]{ambrosino_what_2018}
+Ambrosino, A., M.~Cedrini, J.~B. Davis, S.~Fiori, M.~Guerzoni, and M.~Nuccio
+  (2018).
+\newblock What topic modeling could reveal about the evolution of economics*.
+\newblock {\em Journal of Economic Methodology\/}~{\em 25\/}(4), 329--348.
+\newblock Publisher: Routledge \_eprint:
+  https://doi.org/10.1080/1350178X.2018.1529215.
+
 \bibitem[\protect\citeauthoryear{Aria and Cuccurullo}{Aria and
   Cuccurullo}{2017}]{aria_bibliometrix_2017}
 Aria, M. and C.~Cuccurullo (2017).
@@ -196,6 +205,14 @@ Griffiths, T.~L. and M.~Steyvers (2004).
   101\/}(suppl\_1), 5228--5235.
 \newblock Publisher: Proceedings of the National Academy of Sciences.
 
+\bibitem[\protect\citeauthoryear{Grimmer}{Grimmer}{2010}]{grimmer_bayesian_2010}
+Grimmer, J. (2010).
+\newblock A {Bayesian} {Hierarchical} {Topic} {Model} for {Political} {Texts}:
+  {Measuring} {Expressed} {Agendas} in {Senate} {Press} {Releases}.
+\newblock {\em Political Analysis\/}~{\em 18\/}(1), 1--35.
+\newblock Publisher: [Oxford University Press, Society for Political
+  Methodology].
+
 \bibitem[\protect\citeauthoryear{Grossman}{Grossman}{1982}]{grossman_substitutability_1982}
 Grossman, J.~B. (1982).
 \newblock The {Substitutability} of {Natives} and {Immigrants} in {Production}.
@@ -209,6 +226,13 @@ Grün, B. and K.~Hornik (2011).
 \newblock topicmodels: {An} {R} {Package} for {Fitting} {Topic} {Models}.
 \newblock {\em J. Stat. Soft.\/}~{\em 40\/}(13).
 \newblock Publisher: Foundation for Open Access Statistic.
+
+\bibitem[\protect\citeauthoryear{Hansen, McMahon, and Prat}{Hansen
+  et~al.}{2018}]{hansen_transparency_2018}
+Hansen, S., M.~McMahon, and A.~Prat (2018).
+\newblock Transparency and {Deliberation} {Within} the {FOMC}: {A}
+  {Computational} {Linguistics} {Approach}*.
+\newblock {\em Q J Econ\/}~{\em 133\/}(2), 801--870.
 
 \bibitem[\protect\citeauthoryear{Harris and Todaro}{Harris and
   Todaro}{1970}]{harris_migration_1970}
@@ -340,6 +364,12 @@ Massey, D.~S., J.~Arango, G.~Hugo, A.~Kouaouci, A.~Pellegrino, and J.~E. Taylor
 \newblock {\em Population and Development Review\/}~{\em 20\/}(4), 699.
 \newblock Publisher: JSTOR.
 
+\bibitem[\protect\citeauthoryear{McAuliffe and Oucho}{McAuliffe and
+  Oucho}{2024}]{mcauliffe_world_2024}
+McAuliffe, M. and L.~Oucho (Eds.) (2024).
+\newblock {\em World {Migration} {Report} 2024}.
+\newblock International Organization for Migration (IOM), Geneva.
+
 \bibitem[\protect\citeauthoryear{Mincer}{Mincer}{1978}]{mincer_family_1978}
 Mincer, J. (1978).
 \newblock Family {Migration} {Decisions}.
@@ -437,6 +467,13 @@ Scholten, P., A.~Pisarevskaya, and N.~Levy (2022).
 \newblock In P.~Scholten (Ed.), {\em Introduction to {Migration} {Studies}:
   {An} {Interactive} {Guide} to the {Literatures} on {Migration} and
   {Diversity}}, pp.\  3--24. Cham: Springer International Publishing.
+
+\bibitem[\protect\citeauthoryear{Schrover}{Schrover}{2022}]{schrover_migration_2022}
+Schrover, M. (2022).
+\newblock Migration {Histories}.
+\newblock In P.~Scholten (Ed.), {\em Introduction to {Migration} {Studies}:
+  {An} {Interactive} {Guide} to the {Literatures} on {Migration} and
+  {Diversity}}, pp.\  25--46. Cham: Springer International Publishing.
 
 \bibitem[\protect\citeauthoryear{Shannon}{Shannon}{1948}]{shannon_mathematical_1948}
 Shannon, C.~E. (1948).

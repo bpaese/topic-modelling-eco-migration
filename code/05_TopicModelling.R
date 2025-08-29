@@ -1,7 +1,7 @@
 ################################################################################################
 # LDA topic modelling on the abstracts of data from Web of Science 
 # Bruno Paese
-# Last updated: July 22, 2025
+# Last updated: August 27, 2025
 # Code built following Wouter van Atteveldt and Kasper Welbers (2020)
 # Source: https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md
 ################################################################################################
@@ -209,6 +209,40 @@ graph_out <- topic_trends %>%
   theme(plot.title = element_text(family = NULL, face = "bold"))
 graph_out
 #ggsave(filename = here("output","figures","topic_trends_2.pdf"), plot = graph_out)
+rm(graph_out)
+
+# Topics with strong orientation toward internal migration
+graph_out <- topic_trends %>%
+  filter(topic == 1 | topic == 15 | topic == 16 | topic == 17) %>%
+  ggplot(aes(x = year, y = mean_gamma, color = factor(topic), linetype = factor(topic))) +
+  geom_line(linewidth = 0.4) +
+  scale_x_continuous(breaks = seq(1991, 2024, by = 4)) +
+  scale_color_viridis(option = "H", discrete = TRUE, name = "Topic") +
+  scale_linetype_manual(values = linetypes, name = "Topic") +
+  labs(color = "Topic") +
+  xlab("") +
+  ylab("Mean posterior probability") +
+  theme_bw() +
+  theme(plot.title = element_text(family = NULL, face = "bold"))
+graph_out
+#ggsave(filename = here("output","figures","topic_trends_1.pdf"), plot = graph_out)
+rm(graph_out)
+
+# Topics with strong orientation toward international migration
+graph_out <- topic_trends %>%
+  filter(topic == 4 | topic == 6 | topic == 7 | topic == 9 | topic == 10 | topic == 11 | topic == 18 | topic == 20 | topic == 21 | topic == 23 | topic == 25) %>%
+  ggplot(aes(x = year, y = mean_gamma, color = factor(topic), linetype = factor(topic))) +
+  geom_line(linewidth = 0.4) +
+  scale_x_continuous(breaks = seq(1991, 2024, by = 4)) +
+  scale_color_viridis(option = "H", discrete = TRUE, name = "Topic") +
+  scale_linetype_manual(values = linetypes, name = "Topic") +
+  labs(color = "Topic") +
+  xlab("") +
+  ylab("Mean posterior probability") +
+  theme_bw() +
+  theme(plot.title = element_text(family = NULL, face = "bold"))
+graph_out
+#ggsave(filename = here("output","figures","topic_trends_1.pdf"), plot = graph_out)
 rm(graph_out)
 
 ## Graphs of the mean posterior probability of topics

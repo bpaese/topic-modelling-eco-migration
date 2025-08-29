@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.1)  21 AUG 2025 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.1)  29 AUG 2025 10:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,20 +1073,12 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 74
 (C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-(chapters/introduction.tex
-
-Package natbib Warning: Citation `schrover_migration_2022' on page 1 undefined 
-on input line 3.
-
-
-Package natbib Warning: Citation `mcauliffe_world_2024' on page 1 undefined on 
-input line 3.
-
-) (chapters/lit_review.tex
+(chapters/introduction.tex)
 
 [1
 
 {C:/Users/bruno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(chapters/lit_review.tex
 
 [2]
 
@@ -1100,31 +1092,31 @@ input line 3.
 
 [7]
 
-[8]) (chapters/eco_migration.tex
+[8])
 
-[9]) (chapters/methodology.tex
+[9] (chapters/eco_migration.tex)
 
-[10]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 11.
-
-
+[10] (chapters/methodology.tex
 
 [11]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 15.
+
+
 
 [12]) (chapters/data.tex
 
 [13]
 
 [14]
-<../output/figures/annual_production.pdf, id=641, 436.63126pt x 381.425pt>
+<../output/figures/annual_production.pdf, id=662, 436.63126pt x 381.425pt>
 File: ../output/figures/annual_production.pdf Graphic file (type pdf)
 <use ../output/figures/annual_production.pdf>
 Package pdftex.def Info: ../output/figures/annual_production.pdf  used on input
  line 21.
 (pdftex.def)             Requested size: 339.72592pt x 296.77115pt.
-<../output/figures/most_relevant_AK_overall.pdf, id=644, 436.63126pt x 381.425p
+<../output/figures/most_relevant_AK_overall.pdf, id=665, 436.63126pt x 381.425p
 t>
 File: ../output/figures/most_relevant_AK_overall.pdf Graphic file (type pdf)
 <use ../output/figures/most_relevant_AK_overall.pdf>
@@ -1201,25 +1193,25 @@ Overfull \hbox (5.5583pt too wide) in alignment at lines 304--304
 [20]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 17.
+               Default added (so using `tbp') on input line 19.
 
-<../output/figures/topic_prob_1991-2002.pdf, id=718, 436.63126pt x 381.425pt>
+<../output/figures/topic_prob_1991-2002.pdf, id=737, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_prob_1991-2002.pdf Graphic file (type pdf)
 <use ../output/figures/topic_prob_1991-2002.pdf>
 Package pdftex.def Info: ../output/figures/topic_prob_1991-2002.pdf  used on in
-put line 61.
+put line 65.
 (pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-<../output/figures/topic_prob_2003-2013.pdf, id=719, 436.63126pt x 381.425pt>
+<../output/figures/topic_prob_2003-2013.pdf, id=738, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_prob_2003-2013.pdf Graphic file (type pdf)
 <use ../output/figures/topic_prob_2003-2013.pdf>
 Package pdftex.def Info: ../output/figures/topic_prob_2003-2013.pdf  used on in
-put line 68.
+put line 72.
 (pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-<../output/figures/topic_prob_2014-2024.pdf, id=720, 436.63126pt x 381.425pt>
+<../output/figures/topic_prob_2014-2024.pdf, id=739, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_prob_2014-2024.pdf Graphic file (type pdf)
 <use ../output/figures/topic_prob_2014-2024.pdf>
 Package pdftex.def Info: ../output/figures/topic_prob_2014-2024.pdf  used on in
-put line 75.
+put line 79.
 (pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
 
 
@@ -1231,30 +1223,18 @@ put line 75.
 ]
 
 [22]
-<../output/figures/topic_trends_1.pdf, id=736, 436.63126pt x 381.425pt>
+<../output/figures/topic_trends_1.pdf, id=752, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_trends_1.pdf Graphic file (type pdf)
 <use ../output/figures/topic_trends_1.pdf>
 Package pdftex.def Info: ../output/figures/topic_trends_1.pdf  used on input li
-ne 87.
+ne 91.
 (pdftex.def)             Requested size: 327.47264pt x 286.06804pt.
-<../output/figures/topic_trends_2.pdf, id=737, 436.63126pt x 381.425pt>
+<../output/figures/topic_trends_2.pdf, id=753, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_trends_2.pdf Graphic file (type pdf)
 <use ../output/figures/topic_trends_2.pdf>
 Package pdftex.def Info: ../output/figures/topic_trends_2.pdf  used on input li
-ne 94.
+ne 98.
 (pdftex.def)             Requested size: 327.47264pt x 286.06804pt.
-<../output/figures/gs_entropy.pdf, id=742, 436.63126pt x 381.425pt>
-File: ../output/figures/gs_entropy.pdf Graphic file (type pdf)
-<use ../output/figures/gs_entropy.pdf>
-Package pdftex.def Info: ../output/figures/gs_entropy.pdf  used on input line 1
-07.
-(pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
-<../output/figures/h_entropy.pdf, id=743, 436.63126pt x 381.425pt>
-File: ../output/figures/h_entropy.pdf Graphic file (type pdf)
-<use ../output/figures/h_entropy.pdf>
-Package pdftex.def Info: ../output/figures/h_entropy.pdf  used on input line 11
-4.
-(pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
 
 
 [23 <../output/figures/topic_prob_1991-2002.pdf> <../output/figures/topic_prob_
@@ -1265,89 +1245,88 @@ LaTeX Warning: Text page 24 contains only floats.
 
 
 [24 <../output/figures/topic_trends_1.pdf> <../output/figures/topic_trends_2.pd
-f>]) (chapters/conclusion.tex)
+f>]
 
-[25 <../output/figures/gs_entropy.pdf> <../output/figures/h_entropy.pdf>]
-(main.bbl
+LaTeX Warning: Reference `topics_posterior' on page 25 undefined on input line 
+107.
 
-[26]
+<../output/figures/gs_entropy.pdf, id=799, 436.63126pt x 381.425pt>
+File: ../output/figures/gs_entropy.pdf Graphic file (type pdf)
+<use ../output/figures/gs_entropy.pdf>
+Package pdftex.def Info: ../output/figures/gs_entropy.pdf  used on input line 1
+13.
+(pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
+<../output/figures/h_entropy.pdf, id=800, 436.63126pt x 381.425pt>
+File: ../output/figures/h_entropy.pdf Graphic file (type pdf)
+<use ../output/figures/h_entropy.pdf>
+Package pdftex.def Info: ../output/figures/h_entropy.pdf  used on input line 12
+0.
+(pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
+) (chapters/conclusion.tex
+
+[25 <../output/figures/gs_entropy.pdf> <../output/figures/h_entropy.pdf>])
+
+[26] (main.bbl
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 233--238
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 257--262
 []\OT1/cmr/m/n/10 Jost, L. (2006).  En-tropy and di-ver-sity.  \OT1/cmr/m/it/10
  Oikos 113\OT1/cmr/m/n/10 (2), 363--375.  []eprint:
  []
 
 
 
-[28]
-
 [29]
-Underfull \hbox (badness 4647) in paragraph at lines 449--455
+
+[30]
+Underfull \hbox (badness 4647) in paragraph at lines 486--492
 []\OT1/cmr/m/n/10 Shields, G. M. and M. P. Shields (1989).  The Emer-gence of M
 i-gra-tion The-ory and
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 449--455
+Underfull \hbox (badness 4981) in paragraph at lines 486--492
 \OT1/cmr/m/n/10 a Sug-gested New Di-rec-tion.  \OT1/cmr/m/it/10 Jour-nal of Eco
 -nomic Sur-veys 3\OT1/cmr/m/n/10 (4), 277--304.  []eprint:
  []
 
 
-Underfull \hbox (badness 3449) in paragraph at lines 504--510
+
+[31]
+Underfull \hbox (badness 3449) in paragraph at lines 541--547
 []\OT1/cmr/m/n/10 Taylor, E. J. (1999).  The New Eco-nomics of Labour Mi-gra-ti
 on and the Role of Re-
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 504--510
+Underfull \hbox (badness 4832) in paragraph at lines 541--547
 \OT1/cmr/m/n/10 mit-tances in the Mi-gra-tion Pro-cess.  \OT1/cmr/m/it/10 In-te
 r-na-tional Mi-gra-tion 37\OT1/cmr/m/n/10 (1), 63--88.  []eprint:
  []
 
+)
 
-
-[30])
-
-[31] (chapters/appendix.tex
-
-[32]
+[32] (chapters/appendix.tex
 
 [33]
 
 [34]
 
 [35]
-<../output/figures/lda.png, id=1034, 845.1575pt x 372.39125pt>
+
+[36]
+<../output/figures/lda.png, id=1074, 845.1575pt x 372.39125pt>
 File: ../output/figures/lda.png Graphic file (type png)
 <use ../output/figures/lda.png>
 Package pdftex.def Info: ../output/figures/lda.png  used on input line 53.
 (pdftex.def)             Requested size: 271.7835pt x 119.7529pt.
-<../output/figures/top_terms_figure1.pdf, id=1043, 844.15375pt x 597.23125pt>
-File: ../output/figures/top_terms_figure1.pdf Graphic file (type pdf)
-<use ../output/figures/top_terms_figure1.pdf>
-Package pdftex.def Info: ../output/figures/top_terms_figure1.pdf  used on input
- line 62.
-(pdftex.def)             Requested size: 422.07584pt x 298.61488pt.
-<../output/figures/top_terms_figure2.pdf, id=1044, 844.15375pt x 597.23125pt>
-File: ../output/figures/top_terms_figure2.pdf Graphic file (type pdf)
-<use ../output/figures/top_terms_figure2.pdf>
-Package pdftex.def Info: ../output/figures/top_terms_figure2.pdf  used on input
- line 69.
-(pdftex.def)             Requested size: 422.07584pt x 298.61488pt.
-)
-
-Package natbib Warning: There were undefined citations.
 
 
+[37])
 
-[36]
-
-[37 <../output/figures/lda.png (PNG copy)> <../output/figures/top_terms_figure1
-.pdf>]
-
-[38 <../output/figures/top_terms_figure2.pdf>]
+[38 <../output/figures/lda.png (PNG copy)>]
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
@@ -1357,19 +1336,19 @@ L3 programming layer <2025-04-29>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CAD379525ABDB8E2465D958F703F1784;5589.
+(rerunfilecheck)             Checksum: 6327C0E3B9B1376041E7CDB00F679C61;5605.
  ) 
 Here is how much of TeX's memory you used:
- 30842 strings out of 469923
- 627533 string characters out of 5469171
- 1114664 words of memory out of 5000000
- 56918 multiletter control sequences out of 15000+600000
+ 30845 strings out of 469923
+ 627313 string characters out of 5469171
+ 1114790 words of memory out of 5000000
+ 56912 multiletter control sequences out of 15000+600000
  638865 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,91p,2687b,1296s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,17n,91p,2450b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 0600.pk> <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm0800.pk><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1393,9 +1372,9 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bruno/AppData
 o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Us
 ers/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pf
 b>
-Output written on main.pdf (38 pages, 663622 bytes).
+Output written on main.pdf (38 pages, 658471 bytes).
 PDF statistics:
- 1207 PDF objects out of 1440 (max. 8388607)
- 207 named destinations out of 1000 (max. 500000)
- 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1243 PDF objects out of 1440 (max. 8388607)
+ 216 named destinations out of 1000 (max. 500000)
+ 263 words of extra memory for PDF output out of 10000 (max. 10000000)
 
