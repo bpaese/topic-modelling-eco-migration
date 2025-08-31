@@ -1,7 +1,7 @@
 ######################################################################
 # Metadata from the Web of Science data using the bibliometrix package
 # Bruno Paese
-# Last updated: July 26, 2025
+# Last updated: August 31, 2025
 ######################################################################
 
 # Clean console and global environment ---------------------------------------
@@ -9,10 +9,10 @@ cat("\014")
 rm(list = ls())
 
 ## Packages ------------------------------------------------------------------
+library(here)
 library(tidyverse)
 library(stargazer)
 library(bibliometrix)
-library(here)
 library(huxtable)
 
 ## Load data -----------------------------------------------------------------
@@ -42,21 +42,6 @@ biblio_analysis <- biblioAnalysis(data, sep = ";")
 descriptive_summary <- summary(object = biblio_analysis, k = 15, pause = FALSE)
 #citations_results <- citations(data, field = "author", sep = ";")
 
-# Period 1991-2002
-biblio_analysis1991 <- biblioAnalysis(data1991, sep = ";")
-descriptive_summary1991 <- summary(object = biblio_analysis1991, k = 15, pause = FALSE)
-#citations_results1991 <- citations(data1991, field = "author", sep = ";")
-
-# Period 2003-2013
-biblio_analysis2003 <- biblioAnalysis(data2003, sep = ";")
-descriptive_summary2003 <- summary(object = biblio_analysis2003, k = 15, pause = FALSE)
-#citations_results2003 <- citations(data2003, field = "author", sep = ";")
-
-# Period 2014-2024
-biblio_analysis2014 <- biblioAnalysis(data2014, sep = ";")
-descriptive_summary2014 <- summary(object = biblio_analysis2014, k = 15, pause = FALSE)
-#citations_results2014 <- citations(data2014, field = "author", sep = ";")
-
 ## Annual production of scientific documents
 annual_production <- as.data.frame(descriptive_summary$AnnualProduction)
 annual_production <- annual_production %>%
@@ -70,30 +55,6 @@ author_keywords <- author_keywords %>%
   mutate(Articles = as.numeric(Articles)) %>%
   rename(`Author keywords`=`Author Keywords (DE)     `)
 author_keywords <- author_keywords[1:12,]
-
-author_keywords1991 <- as.data.frame(descriptive_summary1991$MostRelKeywords)[,1:2]
-author_keywords1991 <- author_keywords1991 %>%
-  filter(!(`Author Keywords (DE)     ` == "MIGRATION              ")) %>%
-  arrange(desc(Articles)) %>%
-  mutate(Articles = as.numeric(Articles)) %>%
-  rename(`Author keywords`=`Author Keywords (DE)     `)
-author_keywords1991 <- author_keywords1991[1:12,]
-
-author_keywords2003 <- as.data.frame(descriptive_summary2003$MostRelKeywords)[,1:2]
-author_keywords2003 <- author_keywords2003 %>%
-  filter(!(`Author Keywords (DE)     ` == "MIGRATION              ")) %>%
-  arrange(desc(Articles)) %>%
-  mutate(Articles = as.numeric(Articles)) %>%
-  rename(`Author keywords`=`Author Keywords (DE)     `)
-author_keywords2003 <- author_keywords2003[1:12,]
-
-author_keywords2014 <- as.data.frame(descriptive_summary2014$MostRelKeywords)[,1:2]
-author_keywords2014 <- author_keywords2014 %>%
-  filter(!(`Author Keywords (DE)     ` == "MIGRATION              ")) %>%
-  arrange(desc(Articles)) %>%
-  mutate(Articles = as.numeric(Articles)) %>%
-  rename(`Author keywords`=`Author Keywords (DE)     `)
-author_keywords2014 <- author_keywords2014[1:12,]
 
 # sources <- as.data.frame(descriptive_summary$MostRelSources[1:12,])
 # sources <- sources %>%
@@ -149,39 +110,6 @@ graph_out
 ggsave(filename = here("output","figures","most_relevant_AK_overall.pdf"), plot = graph_out)
 rm(graph_out)
 
-graph_out <- ggplot(data = author_keywords1991, aes(x = reorder(`Author keywords`, Articles), y = Articles)) +
-  geom_col(fill = "#0072B2") +
-  coord_flip() +  # Flip to make horizontal
-  xlab("") +
-  ylab("Occurrences") +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10))  # Improve readability
-graph_out
-ggsave(filename = here("output","figures","most_relevant_AK_1991.pdf"), plot = graph_out)
-rm(graph_out)
-
-graph_out <- ggplot(data = author_keywords2003, aes(x = reorder(`Author keywords`, Articles), y = Articles)) +
-  geom_col(fill = "#0072B2") +
-  coord_flip() +  # Flip to make horizontal
-  xlab("") +
-  ylab("Occurrences") +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10))  # Improve readability
-graph_out
-ggsave(filename = here("output","figures","most_relevant_AK_2003.pdf"), plot = graph_out)
-rm(graph_out)
-
-graph_out <- ggplot(data = author_keywords2014, aes(x = reorder(`Author keywords`, Articles), y = Articles)) +
-  geom_col(fill = "#0072B2") +
-  coord_flip() +  # Flip to make horizontal
-  xlab("") +
-  ylab("Occurrences") +
-  theme_bw() +
-  theme(axis.text.y = element_text(size = 10))  # Improve readability
-graph_out
-ggsave(filename = here("output","figures","most_relevant_AK_2014.pdf"), plot = graph_out)
-rm(graph_out)
-
 ## Most relevant sources
 # graph_out <- ggplot(data = sources, aes(x = reorder(Sources, Articles), y = Articles)) +
 #   geom_col(fill = "#0072B2") +
@@ -211,7 +139,7 @@ rm(graph_out)
 countries_table <- as_huxtable(countries)
 countries_table[1,] <- c("Country", "Number of Documents", "SCP", "MCP", "Total citations", "Average document citation")
 countries_table <- countries_table %>%
-  set_align(row = 1, col = everywhere, "center") %>%
+  set_align(row = everywhere, col = everywhere, "center") %>%
   set_bold(row = 1,col = everywhere) %>%
   set_bottom_border(row = 1, col = everywhere) %>%
   set_top_border(row=1,col=everywhere) %>%

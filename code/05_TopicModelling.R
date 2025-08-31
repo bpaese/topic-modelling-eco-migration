@@ -1,7 +1,7 @@
 ################################################################################################
-# LDA topic modelling on the abstracts of data from Web of Science 
+# LDA topic modelling on the abstracts of scientific work from Web of Science 
 # Bruno Paese
-# Last updated: August 27, 2025
+# Last updated: August 31, 2025
 # Code built following Wouter van Atteveldt and Kasper Welbers (2020)
 # Source: https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md
 ################################################################################################
@@ -11,15 +11,16 @@ cat("\014")
 rm(list = ls())
 
 ## Packages, global variables, and functions ---------------------------------
-library(tidyverse)
 library(here)
+library(tidyverse)
 library(bibliometrix)
+library(huxtable)
+library(quanteda)
+library(topicmodels)
+library(readtext)
+library(textstem)
 library(topicmodels)
 #library(ldatuning) # This package was built under R version 4.4.3, but it was discontinued under version 4.5.0. The package became unusable after we updated R.
-library(readtext)
-library(quanteda)
-library(textstem)
-library(huxtable)
 library(viridis) # Package to provide color palettes
 
 ## Load global variables

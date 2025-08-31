@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.1)  29 AUG 2025 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.1)  31 AUG 2025 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
 (C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count272
 \c@section=\count273
@@ -995,12 +995,12 @@ LaTeX Font Info:    ... okay on input line 69.
 * \topmargin=0.0pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1055,29 +1055,29 @@ Package hyperref Info: Link coloring ON on input line 69.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 74.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
 
 
 (C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 74.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
 
 
 (C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 74
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 72
 .
 
 (C:\Users\bruno\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-(chapters/introduction.tex)
+(chapters/introduction.tex
 
 [1
 
-{C:/Users/bruno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/bruno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 (chapters/lit_review.tex
 
 [2]
@@ -1089,49 +1089,74 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 [5]
 
 [6]
+Overfull \hbox (18.45036pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/n/12 sues re-gard-ing rural-urban mi-gra-tion in de-vel-op-ing (or l
+east de-vel-oped) coun-tries. Economists
+ []
+
+
 
 [7]
 
-[8])
+[8]
 
-[9] (chapters/eco_migration.tex)
+[9]
 
-[10] (chapters/methodology.tex
+[10]
 
 [11]
+
+[12]
+
+[13]) (chapters/eco_migration.tex
+
+[14]) (chapters/methodology.tex
+
+[15]
+
+[16]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 15.
 
 
+Overfull \hbox (29.46562pt too wide) in paragraph at lines 17--26
+ [][] 
+ []
 
-[12]) (chapters/data.tex
 
-[13]
 
-[14]
-<../output/figures/annual_production.pdf, id=662, 436.63126pt x 381.425pt>
+[17]) (chapters/data.tex
+
+[18]
+
+[19]
+
+[20]
+<../output/figures/annual_production.pdf, id=697, 436.63126pt x 381.425pt>
 File: ../output/figures/annual_production.pdf Graphic file (type pdf)
 <use ../output/figures/annual_production.pdf>
 Package pdftex.def Info: ../output/figures/annual_production.pdf  used on input
- line 21.
+ line 19.
 (pdftex.def)             Requested size: 339.72592pt x 296.77115pt.
-<../output/figures/most_relevant_AK_overall.pdf, id=665, 436.63126pt x 381.425p
+
+
+[21 <../output/figures/annual_production.pdf>]
+<../output/figures/most_relevant_AK_overall.pdf, id=711, 436.63126pt x 381.425p
 t>
 File: ../output/figures/most_relevant_AK_overall.pdf Graphic file (type pdf)
 <use ../output/figures/most_relevant_AK_overall.pdf>
 Package pdftex.def Info: ../output/figures/most_relevant_AK_overall.pdf  used o
-n input line 30.
+n input line 28.
 (pdftex.def)             Requested size: 339.72592pt x 296.77115pt.
 
 
-[15] (../output/tables/most_prod_countries.tex)) (chapters/results.tex
+[22 <../output/figures/most_relevant_AK_overall.pdf>]
+(../output/tables/most_prod_countries.tex)) (chapters/results.tex
 
-[16 <../output/figures/annual_production.pdf>]
+[23]
 
-[17 <../output/figures/most_relevant_AK_overall.pdf>]
-
-[18] (../output/tables/top_terms_table1.tex
+[24] (../output/tables/top_terms_table1.tex
 Overfull \hbox (8.06688pt too wide) in paragraph at lines 304--304
  [][]\OT1/cmr/m/n/6 european[]union[] 
  []
@@ -1168,7 +1193,7 @@ Overfull \hbox (5.5583pt too wide) in alignment at lines 304--304
 
 )
 
-[19] (../output/tables/top_terms_table2.tex
+[25] (../output/tables/top_terms_table2.tex
 Overfull \hbox (3.87138pt too wide) in paragraph at lines 304--304
  [][]\OT1/cmr/m/n/6 environmental[] 
  []
@@ -1190,191 +1215,228 @@ Overfull \hbox (5.5583pt too wide) in alignment at lines 304--304
 
 )
 
-[20]
+[26]
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 19.
-
-<../output/figures/topic_prob_1991-2002.pdf, id=738, 436.63126pt x 381.425pt>
-File: ../output/figures/topic_prob_1991-2002.pdf Graphic file (type pdf)
-<use ../output/figures/topic_prob_1991-2002.pdf>
-Package pdftex.def Info: ../output/figures/topic_prob_1991-2002.pdf  used on in
-put line 65.
-(pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-<../output/figures/topic_prob_2003-2013.pdf, id=739, 436.63126pt x 381.425pt>
-File: ../output/figures/topic_prob_2003-2013.pdf Graphic file (type pdf)
-<use ../output/figures/topic_prob_2003-2013.pdf>
-Package pdftex.def Info: ../output/figures/topic_prob_2003-2013.pdf  used on in
-put line 72.
-(pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-<../output/figures/topic_prob_2014-2024.pdf, id=740, 436.63126pt x 381.425pt>
-File: ../output/figures/topic_prob_2014-2024.pdf Graphic file (type pdf)
-<use ../output/figures/topic_prob_2014-2024.pdf>
-Package pdftex.def Info: ../output/figures/topic_prob_2014-2024.pdf  used on in
-put line 79.
-(pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-
-
-[21
+[27
 
 
 
 
 ]
+<../output/figures/topic_prob_1991-2002.pdf, id=781, 436.63126pt x 381.425pt>
+File: ../output/figures/topic_prob_1991-2002.pdf Graphic file (type pdf)
+<use ../output/figures/topic_prob_1991-2002.pdf>
+Package pdftex.def Info: ../output/figures/topic_prob_1991-2002.pdf  used on in
+put line 69.
+(pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
+<../output/figures/topic_prob_2003-2013.pdf, id=782, 436.63126pt x 381.425pt>
+File: ../output/figures/topic_prob_2003-2013.pdf Graphic file (type pdf)
+<use ../output/figures/topic_prob_2003-2013.pdf>
+Package pdftex.def Info: ../output/figures/topic_prob_2003-2013.pdf  used on in
+put line 76.
+(pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
+<../output/figures/topic_prob_2014-2024.pdf, id=783, 436.63126pt x 381.425pt>
+File: ../output/figures/topic_prob_2014-2024.pdf Graphic file (type pdf)
+<use ../output/figures/topic_prob_2014-2024.pdf>
+Package pdftex.def Info: ../output/figures/topic_prob_2014-2024.pdf  used on in
+put line 83.
+(pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
 
-[22]
-<../output/figures/topic_trends_1.pdf, id=753, 436.63126pt x 381.425pt>
+
+[28]
+<../output/figures/topic_trends_1.pdf, id=790, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_trends_1.pdf Graphic file (type pdf)
 <use ../output/figures/topic_trends_1.pdf>
 Package pdftex.def Info: ../output/figures/topic_trends_1.pdf  used on input li
-ne 91.
+ne 95.
 (pdftex.def)             Requested size: 327.47264pt x 286.06804pt.
-<../output/figures/topic_trends_2.pdf, id=754, 436.63126pt x 381.425pt>
+<../output/figures/topic_trends_2.pdf, id=791, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_trends_2.pdf Graphic file (type pdf)
 <use ../output/figures/topic_trends_2.pdf>
 Package pdftex.def Info: ../output/figures/topic_trends_2.pdf  used on input li
-ne 98.
+ne 102.
 (pdftex.def)             Requested size: 327.47264pt x 286.06804pt.
 
 
-[23 <../output/figures/topic_prob_1991-2002.pdf> <../output/figures/topic_prob_
+[29 <../output/figures/topic_prob_1991-2002.pdf> <../output/figures/topic_prob_
 2003-2013.pdf> <../output/figures/topic_prob_2014-2024.pdf>]
 
-LaTeX Warning: Text page 24 contains only floats.
+LaTeX Warning: Text page 30 contains only floats.
 
 
 
-[24 <../output/figures/topic_trends_1.pdf> <../output/figures/topic_trends_2.pd
+[30 <../output/figures/topic_trends_1.pdf> <../output/figures/topic_trends_2.pd
 f>]
-
-LaTeX Warning: Reference `topics_posterior' on page 25 undefined on input line 
-107.
-
-<../output/figures/gs_entropy.pdf, id=800, 436.63126pt x 381.425pt>
+<../output/figures/gs_entropy.pdf, id=837, 436.63126pt x 381.425pt>
 File: ../output/figures/gs_entropy.pdf Graphic file (type pdf)
 <use ../output/figures/gs_entropy.pdf>
 Package pdftex.def Info: ../output/figures/gs_entropy.pdf  used on input line 1
-13.
+17.
 (pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
-<../output/figures/h_entropy.pdf, id=801, 436.63126pt x 381.425pt>
+<../output/figures/h_entropy.pdf, id=838, 436.63126pt x 381.425pt>
 File: ../output/figures/h_entropy.pdf Graphic file (type pdf)
 <use ../output/figures/h_entropy.pdf>
 Package pdftex.def Info: ../output/figures/h_entropy.pdf  used on input line 12
-0.
+4.
 (pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
 ) (chapters/conclusion.tex
 
-[25 <../output/figures/gs_entropy.pdf> <../output/figures/h_entropy.pdf>])
-
-[26] (main.bbl
-
-[27]
-
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 257--262
-[]\OT1/cmr/m/n/10 Jost, L. (2006).  En-tropy and di-ver-sity.  \OT1/cmr/m/it/10
- Oikos 113\OT1/cmr/m/n/10 (2), 363--375.  []eprint:
- []
-
-
-
-[29]
-
-[30]
-Underfull \hbox (badness 4647) in paragraph at lines 486--492
-[]\OT1/cmr/m/n/10 Shields, G. M. and M. P. Shields (1989).  The Emer-gence of M
-i-gra-tion The-ory and
- []
-
-
-Underfull \hbox (badness 4981) in paragraph at lines 486--492
-\OT1/cmr/m/n/10 a Sug-gested New Di-rec-tion.  \OT1/cmr/m/it/10 Jour-nal of Eco
--nomic Sur-veys 3\OT1/cmr/m/n/10 (4), 277--304.  []eprint:
- []
-
-
-
 [31]
-Underfull \hbox (badness 3449) in paragraph at lines 541--547
-[]\OT1/cmr/m/n/10 Taylor, E. J. (1999).  The New Eco-nomics of Labour Mi-gra-ti
-on and the Role of Re-
- []
 
-
-Underfull \hbox (badness 4832) in paragraph at lines 541--547
-\OT1/cmr/m/n/10 mit-tances in the Mi-gra-tion Pro-cess.  \OT1/cmr/m/it/10 In-te
-r-na-tional Mi-gra-tion 37\OT1/cmr/m/n/10 (1), 63--88.  []eprint:
- []
-
-)
-
-[32] (chapters/appendix.tex
+[32 <../output/figures/gs_entropy.pdf> <../output/figures/h_entropy.pdf>])
+(main.bbl
 
 [33]
 
 [34]
 
 [35]
+Underfull \hbox (badness 3826) in paragraph at lines 191--196
+[]\OT1/cmr/m/n/12 Greenwood, M. J. (1985).  Hu-man Mi-gra-tion: The-ory, Mod-el
+s, and Em-
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 191--196
+\OT1/cmr/m/n/12 pir-i-cal Stud-ies.  \OT1/cmr/m/it/12 Jour-nal of Re-gional Sci
+-ence 25\OT1/cmr/m/n/12 (4), 521--544.  []eprint:
+ []
+
+
 
 [36]
-<../output/figures/lda.png, id=1075, 845.1575pt x 372.39125pt>
+Underfull \hbox (badness 2326) in paragraph at lines 273--278
+[]\OT1/cmr/m/n/12 Jost, L. (2006).  En-tropy and di-ver-sity.  \OT1/cmr/m/it/12
+ Oikos 113\OT1/cmr/m/n/12 (2), 363--375.  []eprint:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--278
+\OT1/cmr/m/n/12 https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2
+006.0030-
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 280--285
+[]\OT1/cmr/m/n/12 King, R. (2002).  To-wards a new map of Eu-ro-pean mi-gra-tio
+n.  \OT1/cmr/m/it/12 In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
+\OT1/cmr/m/it/12 ter-na-tional Jour-nal of Pop-u-la-tion Ge-og-ra-phy 8\OT1/cmr
+/m/n/12 (2), 89--106.  []eprint:
+ []
+
+
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 351--356
+[]\OT1/cmr/m/n/12 Mabogunje, A. L. (1970).  Sys-tems Ap-proach to a The-ory of 
+Rural-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--356
+\OT1/cmr/m/n/12 Urban Mi-gra-tion.  \OT1/cmr/m/it/12 Ge-o-graph-i-cal Anal-y-si
+s 2\OT1/cmr/m/n/12 (1), 1--18.  []eprint:
+ []
+
+
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 478--485
+[]\OT1/cmr/m/n/12 Schiller, N. G., L. Basch, and C. Blanc-Szanton (1992).  Tran
+sna-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--485
+\OT1/cmr/m/n/12 tion-al-ism: A New An-a-lytic Frame-work for Un-der-stand-ing M
+i-gra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--485
+\OT1/cmr/m/n/12 tion.  \OT1/cmr/m/it/12 An-nals of the New York Academy of Sci-
+ences 645\OT1/cmr/m/n/12 (1), 1--24.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--485
+[]\OT1/cmr/m/n/12 eprint: https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1
+111/j.1749-
+ []
+
+
+
+[39]
+
+[40])
+
+[41] (chapters/appendix.tex
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+<../output/figures/lda.png, id=1147, 845.1575pt x 372.39125pt>
 File: ../output/figures/lda.png Graphic file (type png)
 <use ../output/figures/lda.png>
 Package pdftex.def Info: ../output/figures/lda.png  used on input line 53.
 (pdftex.def)             Requested size: 271.7835pt x 119.7529pt.
 
 
-[37])
+[48 <../output/figures/lda.png (PNG copy)>])
 
-[38 <../output/figures/lda.png (PNG copy)>]
-
+[49] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6327C0E3B9B1376041E7CDB00F679C61;5605.
  ) 
 Here is how much of TeX's memory you used:
- 30845 strings out of 469923
- 627313 string characters out of 5469171
- 1115790 words of memory out of 5000000
- 56912 multiletter control sequences out of 15000+600000
- 638865 words of font info for 88 fonts, out of 8000000 for 9000
+ 30870 strings out of 469923
+ 627775 string characters out of 5469171
+ 1114878 words of memory out of 5000000
+ 56924 multiletter control sequences out of 15000+600000
+ 640876 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,91p,2450b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,17n,91p,2328b,1308s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-0600.pk> <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcrm0800.pk><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/bruno/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/bruno/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bruno/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/bru
-no/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/U
-sers/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+0700.pk> <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1000.pk><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx6.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/bruno/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bruno/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/bruno/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/bru
+no/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
 fb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr17.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmr6.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/bruno/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bruno/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bruno/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/brun
-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Us
-ers/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pf
-b>
-Output written on main.pdf (38 pages, 659345 bytes).
+/cmr17.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr6.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/bruno/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bruno/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bruno/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/bruno/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (49 pages, 650204 bytes).
 PDF statistics:
- 1244 PDF objects out of 1440 (max. 8388607)
- 216 named destinations out of 1000 (max. 500000)
+ 1316 PDF objects out of 1440 (max. 8388607)
+ 230 named destinations out of 1000 (max. 500000)
  263 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -26,6 +26,14 @@ Arun, R., V.~Suresh, C.~E. Veni~Madhavan, and M.~N. Narasimha~Murthy (2010).
 \newblock ISSN: 0302-9743, 1611-3349.
 
 \bibitem[\protect\citeauthoryear{Blei and Lafferty}{Blei and
+  Lafferty}{2006}]{blei_dynamic_2006}
+Blei, D.~M. and J.~D. Lafferty (2006).
+\newblock Dynamic topic models.
+\newblock In {\em Proceedings of the 23rd international conference on {Machine}
+  learning}, {ICML} '06, New York, NY, USA, pp.\  113--120. Association for
+  Computing Machinery.
+
+\bibitem[\protect\citeauthoryear{Blei and Lafferty}{Blei and
   Lafferty}{2009}]{blei_topic_2009}
 Blei, D.~M. and J.~D. Lafferty (2009).
 \newblock Topic {Models}.
@@ -39,6 +47,14 @@ Blei, D.~M., A.~Y. Ng, and M.~I. Jordan (2003).
 \newblock Latent dirichlet allocation.
 \newblock {\em The Journal of Machine Learning Research\/}~{\em 3\/}(null),
   993--1022.
+
+\bibitem[\protect\citeauthoryear{Borjas}{Borjas}{1985}]{borjas_assimilation_1985}
+Borjas, G.~J. (1985).
+\newblock Assimilation, {Changes} in {Cohort} {Quality}, and the {Earnings} of
+  {Immigrants}.
+\newblock {\em Journal of Labor Economics\/}~{\em 3\/}(4), 463--489.
+\newblock Publisher: [The University of Chicago Press, Society of Labor
+  Economists, NORC at the University of Chicago].
 
 \bibitem[\protect\citeauthoryear{Borjas}{Borjas}{1987}]{borjas_self-selection_1987}
 Borjas, G.~J. (1987).
@@ -140,7 +156,7 @@ DaVanzo, J. (1978).
 \bibitem[\protect\citeauthoryear{De~Haas}{De~Haas}{2021}]{de_haas_theory_2021}
 De~Haas, H. (2021).
 \newblock A theory of migration: the aspirations-capabilities framework.
-\newblock {\em CMS\/}~{\em 9\/}(1).
+\newblock {\em CMS\/}~{\em 9\/}(1), 1--35.
 \newblock Publisher: Springer Science and Business Media LLC.
 
 \bibitem[\protect\citeauthoryear{Deveaud, SanJuan, and Bellot}{Deveaud
@@ -224,7 +240,7 @@ Grossman, J.~B. (1982).
   Hornik}{2011}]{grun_topicmodels_2011}
 Grün, B. and K.~Hornik (2011).
 \newblock topicmodels: {An} {R} {Package} for {Fitting} {Topic} {Models}.
-\newblock {\em J. Stat. Soft.\/}~{\em 40\/}(13).
+\newblock {\em J. Stat. Soft.\/}~{\em 40\/}(13), 1--30.
 \newblock Publisher: Foundation for Open Access Statistic.
 
 \bibitem[\protect\citeauthoryear{Hansen, McMahon, and Prat}{Hansen
@@ -368,7 +384,8 @@ Massey, D.~S., J.~Arango, G.~Hugo, A.~Kouaouci, A.~Pellegrino, and J.~E. Taylor
   Oucho}{2024}]{mcauliffe_world_2024}
 McAuliffe, M. and L.~Oucho (Eds.) (2024).
 \newblock {\em World {Migration} {Report} 2024}.
-\newblock International Organization for Migration (IOM), Geneva.
+\newblock International Organization for Migration (IOM), Geneva: International
+  Organization for Migration.
 
 \bibitem[\protect\citeauthoryear{Mincer}{Mincer}{1978}]{mincer_family_1978}
 Mincer, J. (1978).
@@ -422,6 +439,13 @@ Ranis, G. and J.~C.~H. Fei (1961).
 \newblock {\em The American Economic Review\/}~{\em 51\/}(4), 533--565.
 \newblock Publisher: American Economic Association.
 
+\bibitem[\protect\citeauthoryear{Rapoport and Docquier}{Rapoport and
+  Docquier}{2006}]{rapoport_economics_2006}
+Rapoport, H. and F.~Docquier (2006).
+\newblock The {Economics} of {Migrants}' {Remittances}.
+\newblock In {\em Handbook of the {Economics} of {Giving}, {Altruism} and
+  {Reciprocity}}, Volume~2, pp.\  1135--1198. Elsevier.
+
 \bibitem[\protect\citeauthoryear{Ravenstein}{Ravenstein}{1885}]{ravenstein_laws_1885}
 Ravenstein, E.~G. (1885).
 \newblock The {Laws} of {Migration}.
@@ -467,13 +491,6 @@ Scholten, P., A.~Pisarevskaya, and N.~Levy (2022).
 \newblock In P.~Scholten (Ed.), {\em Introduction to {Migration} {Studies}:
   {An} {Interactive} {Guide} to the {Literatures} on {Migration} and
   {Diversity}}, pp.\  3--24. Cham: Springer International Publishing.
-
-\bibitem[\protect\citeauthoryear{Schrover}{Schrover}{2022}]{schrover_migration_2022}
-Schrover, M. (2022).
-\newblock Migration {Histories}.
-\newblock In P.~Scholten (Ed.), {\em Introduction to {Migration} {Studies}:
-  {An} {Interactive} {Guide} to the {Literatures} on {Migration} and
-  {Diversity}}, pp.\  25--46. Cham: Springer International Publishing.
 
 \bibitem[\protect\citeauthoryear{Shannon}{Shannon}{1948}]{shannon_mathematical_1948}
 Shannon, C.~E. (1948).
@@ -536,6 +553,14 @@ Stewart, J.~Q. (1947).
   {Equilibrium} of {Population}.
 \newblock {\em Geographical Review\/}~{\em 37\/}(3), 461--485.
 \newblock Publisher: Taylor \& Francis, Ltd.
+
+\bibitem[\protect\citeauthoryear{Talleraas, Brekke, and Buhr}{Talleraas
+  et~al.}{2022}]{talleraas_humanitarian_2022}
+Talleraas, C., J.-P. Brekke, and F.~Buhr (2022).
+\newblock Humanitarian {Migration}.
+\newblock In P.~Scholten (Ed.), {\em Introduction to {Migration} {Studies}:
+  {An} {Interactive} {Guide} to the {Literatures} on {Migration} and
+  {Diversity}}, pp.\  151--167. Cham: Springer International Publishing.
 
 \bibitem[\protect\citeauthoryear{Taylor}{Taylor}{1999}]{taylor_new_1999}
 Taylor, E.~J. (1999).

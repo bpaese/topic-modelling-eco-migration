@@ -1,8 +1,8 @@
-########################################################################
-# Master file for the data repository of the EGEI master's dissertation
+#######################################
+# Master file for the data repository
 # Bruno Paese
-# Last updated: August 21, 2025
-########################################################################
+# Last updated: August 31, 2025
+#######################################
 
 ## Install packages (if necessary) and load libraries ------------------------
 # source(here("code","00_PackageManagement.R"))

@@ -7,49 +7,46 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 Database file #1: references.bib
 Warning--missing author in mcauliffe_world_2024
 Warning--no number and no volume in borjas_immigration_1991
-Warning--page numbers missing in de_haas_theory_2021
-Warning--page numbers missing in grun_topicmodels_2011
 Warning--no number and no volume in lalonde_labor_1991
-Warning--empty publisher in mcauliffe_world_2024
-You've used 82 entries,
+You've used 85 entries,
             2861 wiz_defined-function locations,
-            1148 strings with 18902 characters,
-and the built_in function-call counts, 55742 in all, are:
-= -- 4890
-> -- 3574
-< -- 13
-+ -- 1069
-- -- 1277
-* -- 4769
-:= -- 10122
-add.period$ -- 315
-call.type$ -- 82
-change.case$ -- 558
-chr.to.int$ -- 81
+            1168 strings with 19643 characters,
+and the built_in function-call counts, 58467 in all, are:
+= -- 5157
+> -- 3739
+< -- 16
++ -- 1121
+- -- 1335
+* -- 4992
+:= -- 10567
+add.period$ -- 327
+call.type$ -- 85
+change.case$ -- 580
+chr.to.int$ -- 84
 cite$ -- 88
-duplicate$ -- 1592
-empty$ -- 3593
-format.name$ -- 1436
-if$ -- 10354
+duplicate$ -- 1679
+empty$ -- 3769
+format.name$ -- 1506
+if$ -- 10908
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 85
-newline$ -- 469
-num.names$ -- 825
-pop$ -- 325
+missing$ -- 88
+newline$ -- 485
+num.names$ -- 855
+pop$ -- 341
 preamble$ -- 1
-purify$ -- 1053
+purify$ -- 1093
 quote$ -- 0
-skip$ -- 1628
+skip$ -- 1723
 stack$ -- 0
-substring$ -- 3285
-swap$ -- 543
-text.length$ -- 13
+substring$ -- 3484
+swap$ -- 582
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1576
-warning$ -- 6
-while$ -- 897
+type$ -- 1636
+warning$ -- 3
+while$ -- 935
 width$ -- 0
-write$ -- 1221
-(There were 6 warnings)
+write$ -- 1270
+(There were 3 warnings)
