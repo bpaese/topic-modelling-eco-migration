@@ -31,7 +31,22 @@ However, some studies provide quantitative evidence that migration studies may h
 
 \section{Latent Dirichlet Allocation} \label{LDA}
 
-Latent Dirichlet Allocation (LDA)\footnote{Regarding terminology and notation, we follow \cite{blei_latent_2003}.} builds upon the assumption that documents exhibit multiple topics in different proportions, where a topic is a probabilistic distribution over the words in a fixed vocabulary. The basic unit of an LDA model is a \textit{word}, or \textit{term}, $w$, which is an item from the fixed vocabulary $V$; a \textit{document} $\mathbf{w} = (w_{1}, \cdots, w_{n}, \cdots, w_{N})$ is a sequence of $N$ words\footnote{LDA is based on the bag-of-words assumption, according to which words in a document are exchangeable, and so the order of words in a document can be neglected \citep{blei_latent_2003}.}, where $w_{n}$ is the nth word in the sequence; and a \textit{corpus} $D = \{ \mathbf{w}_{1}, \cdots, \mathbf{w}_{m}, \cdots, \mathbf{w}_{M} \}$ is a collection of $M$ documents, where $\mathbf{w}_{m}$ is the mth document in the collection. 
+Latent Dirichlet Allocation (LDA)\footnote{Regarding terminology and notation, we follow \cite{blei_latent_2003}.} builds upon the assumption that documents exhibit multiple topics in different proportions, where a topic is a probabilistic distribution over the words in a fixed vocabulary. The basic unit of an LDA model is a \textit{word}, or \textit{term}, $w$, which is an item from the fixed vocabulary $\{1, \cdots, V \}$; a \textit{document} $\mathbf{w} = (w_{1}, \cdots, w_{n}, \cdots, w_{N})$ is a sequence of $N$ words\footnote{LDA is based on the bag-of-words assumption, according to which words in a document are exchangeable, and so the order of words in a document can be neglected \citep{blei_latent_2003}.}, where $w_{n}$ is the nth word in the sequence; and a \textit{corpus} $D = \{ \mathbf{w}_{1}, \cdots, \mathbf{w}_{m}, \cdots, \mathbf{w}_{M} \}$ is a collection of $M$ documents, where $\mathbf{w}_{m}$ is the mth document in the collection. After the definition of our fixed vocabulary, we shall represent our corpus of $M$ documents as a so-called document-term matrix (DTM)\footnote{Representing our corpus as a DTM is only possible under the bag-of-words assumption \citep{ponweiser_latent_2012}.}, as shown in Table \ref{tab:dtm}.
+
+\begin{table}[ht!]
+	\centering
+	\begin{tabular}{c|cccccc}
+           		        & Word 1 ($w_{1}$) & Word 2 ($w_{2}$) & $\cdots$ & Word $n$ ($w_{n}$) & $\cdots$ & Word $V$ ($w_{V}$) \\ \hline
+Document 1 ($\mathbf{w}_{1}$) & 1 & 2 & $\cdots$ & 4 & $\cdots$ & 0 \\
+Document 2 ($\mathbf{w}_{2}$) & 0 & 4 & $\cdots$ & 3 & $\cdots$ & 0 \\
+$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ \\
+Document $m$ ($\mathbf{w}_{m}$) & 2 & 2 & $\cdots$ & 0 & $\cdots$ & 1 \\
+$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ \\
+Document $M$ ($\mathbf{w}_{M}$) & 5 & 0 & $\cdots$ & 1 & $\cdots$ & 2
+	\end{tabular}
+	\caption{Example of a document-term matrix with $M$ documents and $V$ words, adapted from \cite{ponweiser_latent_2012}. This table represents every document in terms of frequencies of words in our fixed vocabulary. The cells indicate how often a word shows up in a document.}
+	\label{tab:dtm}
+\end{table}
 
 Other elements of the LDA model are: the number of topics $K = \{ 1, \cdots, k \}$; the parameters $\alpha$ and $\eta$, which follow Dirichlet distributions; $\beta_{k} \sim \text{Dirichlet}(\eta)$, which is defined for a given $\eta$ and indicates the probability of a word occurring given a topic $k$, and follows a Dirichlet distribution; $\theta \sim \text{Dirichlet}(\alpha)$, which is defined for a given $\alpha$ and gives the topic proportions per document $\mathbf{w}_{m}$, and that also follows a Dirichlet distribution; and the topic $z_{n} \sim \text{Mult}(\theta)$, which is a topic assigned for a given $\theta$ and follows a Multinomial distribution \citep{blei_latent_2003, blei_topic_2009, grun_topicmodels_2011}. An illustration of how an LDA model works is presented in Figure \ref{fig:lda}. In a simplified way, LDA applies the following probabilistic generative process \citep{blei_topic_2009, grun_topicmodels_2011, ponweiser_latent_2012}:
 

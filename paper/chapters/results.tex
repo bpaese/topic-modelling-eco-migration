@@ -8,6 +8,8 @@ After pre-processing our data and creating the DTM, we decided to trim the terms
 
 Tables \ref{tab:top_terms_1} and \ref{tab:top_terms_2} present the fifteen most likely terms from our 26 topics, which were taken from the \textit{matrix of per-topic word probabilities}. As mentioned in Section \ref{topic_modelling}, LDA topic modelling is unable to assess and interpret topics qualitatively, meaning that a key task that falls to us is to label the topics. To do that, we used a strategy of jointly checking the fifteen words with the highest probability in each topic and the ten scientific works that are most likely to belong to each topic. The labels for the 26 topics are presented in Table \ref{tab:topics_labels}. 
 
+Some comments about our topics are in order. In all cases where we label the topic simply with ``migration", without specifying whether it refers to internal or international migration, it is because both forms are considered within the topic. Topics 2, 6, and 19 are strictly about theoretical frameworks and economic modelling. While topics 2 and 19 are related to both internal and international migration, topic 6 is apparently related to theoretical works that model the economic effects/impacts of immigration, such as the impact on the labor market for native workers, or the welfare effects for immigrants. Topics 4, 7, 9, 10, 11, 18, 23, and 25 are exclusively about international migration subjects, while topics 20 and 21 have very strong international migration content, but might be associated with internal migration\footnote{For instance, topic 20 may be about internally displaced people (IDPs) \citep{talleraas_humanitarian_2022}, while topic 21 may refer to internal remittances.}; hence, following our hypothesis, we expect to observe an increasing participation in these topics. 
+
 \begin{landscape}
 \input{top_terms_table1}
 \end{landscape}
@@ -15,8 +17,6 @@ Tables \ref{tab:top_terms_1} and \ref{tab:top_terms_2} present the fifteen most 
 \begin{landscape}
 \input{top_terms_table2}
 \end{landscape}
-
-Some comments about our topics are in order. In all cases where we label the topic simply with ``migration", without specifying whether it refers to internal or international migration, it is because both forms are considered within the topic. Topics 2, 6, and 19 are strictly about theoretical frameworks and economic modelling. While topics 2 and 19 are related to both internal and international migration, topic 6 is apparently related to theoretical works that model the economic effects/impacts of immigration, such as the impact on the labor market for native workers, or the welfare effects for immigrants. Topics 4, 7, 9, 10, 11, 18, 23, and 25 are exclusively about international migration subjects, while topics 20 and 21 have very strong international migration content, but might be associated with internal migration\footnote{For instance, topic 20 may be about internally displaced people (IDPs) \citep{talleraas_humanitarian_2022}, while topic 21 may refer to internal remittances.}; hence, following our hypothesis, we expect to observe an increasing participation in these topics. 
 
 In addition, Topics 3 and 7 were labelled as ``selected topics" because we could not identify if they were about a specific topic. Topic 4 has words related to irregular migration and health-related issues (some papers belonging to this topic are even related to both), and it seems to be heavily focused on the US. Topics 8 and 16 are heavily skewed toward China, with the latter related to many works dealing with Chinese rural-urban migration (the 18th most likely word in this topic is ``hukou", the household registration system in China). Topic 20 can be found in the literature as ``forced migration", but this terminology is outdated. Topic 21 is related to many works dealing with income inequality and poverty. Finally, the works related to topic 25 make many references to return migration.
 
@@ -92,14 +92,14 @@ The most noticeable change over the three periods is the convergence of topic pr
 
 \begin{figure}[ht!]
 	\centering
-	\includegraphics[scale=0.75]{topic_trends_1.pdf}
+	\includegraphics[scale=0.65]{topic_trends_1.pdf}
 	\caption{Trends of topics 1 to 13 over the period 1991-2024.}
 	\label{fig:topic_trends_1}
 \end{figure}
 
 \begin{figure}[ht!]
 	\centering
-	\includegraphics[scale=0.75]{topic_trends_2.pdf}
+	\includegraphics[scale=0.65]{topic_trends_2.pdf}
 	\caption{Trends of topics 14 to 26 over the period 1991-2024.}
 	\label{fig:topic_trends_2}
 \end{figure}

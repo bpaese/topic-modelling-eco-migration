@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.1)  31 AUG 2025 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.1)  1 SEP 2025 09:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1116,43 +1116,33 @@ east de-vel-oped) coun-tries. Economists
 
 [16]
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 15.
-
-
-Overfull \hbox (29.46562pt too wide) in paragraph at lines 17--26
- [][] 
- []
-
-
-
 [17]) (chapters/data.tex
 
 [18]
 
 [19]
-
-[20]
-<../output/figures/annual_production.pdf, id=697, 436.63126pt x 381.425pt>
+<../output/figures/annual_production.pdf, id=677, 436.63126pt x 381.425pt>
 File: ../output/figures/annual_production.pdf Graphic file (type pdf)
 <use ../output/figures/annual_production.pdf>
 Package pdftex.def Info: ../output/figures/annual_production.pdf  used on input
  line 19.
-(pdftex.def)             Requested size: 339.72592pt x 296.77115pt.
+(pdftex.def)             Requested size: 294.42636pt x 257.20049pt.
 
 
-[21 <../output/figures/annual_production.pdf>]
-<../output/figures/most_relevant_AK_overall.pdf, id=711, 436.63126pt x 381.425p
+[20]
+<../output/figures/most_relevant_AK_overall.pdf, id=691, 436.63126pt x 381.425p
 t>
 File: ../output/figures/most_relevant_AK_overall.pdf Graphic file (type pdf)
 <use ../output/figures/most_relevant_AK_overall.pdf>
 Package pdftex.def Info: ../output/figures/most_relevant_AK_overall.pdf  used o
 n input line 28.
-(pdftex.def)             Requested size: 339.72592pt x 296.77115pt.
+(pdftex.def)             Requested size: 294.42636pt x 257.20049pt.
 
+
+[21 <../output/figures/annual_production.pdf>]
+(../output/tables/most_prod_countries.tex)) (chapters/results.tex
 
 [22 <../output/figures/most_relevant_AK_overall.pdf>]
-(../output/tables/most_prod_countries.tex)) (chapters/results.tex
 
 [23]
 
@@ -1223,57 +1213,52 @@ Overfull \hbox (5.5583pt too wide) in alignment at lines 304--304
 
 
 ]
-<../output/figures/topic_prob_1991-2002.pdf, id=781, 436.63126pt x 381.425pt>
+<../output/figures/topic_prob_1991-2002.pdf, id=771, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_prob_1991-2002.pdf Graphic file (type pdf)
 <use ../output/figures/topic_prob_1991-2002.pdf>
 Package pdftex.def Info: ../output/figures/topic_prob_1991-2002.pdf  used on in
 put line 69.
 (pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-<../output/figures/topic_prob_2003-2013.pdf, id=782, 436.63126pt x 381.425pt>
+<../output/figures/topic_prob_2003-2013.pdf, id=772, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_prob_2003-2013.pdf Graphic file (type pdf)
 <use ../output/figures/topic_prob_2003-2013.pdf>
 Package pdftex.def Info: ../output/figures/topic_prob_2003-2013.pdf  used on in
 put line 76.
 (pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-<../output/figures/topic_prob_2014-2024.pdf, id=783, 436.63126pt x 381.425pt>
+<../output/figures/topic_prob_2014-2024.pdf, id=773, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_prob_2014-2024.pdf Graphic file (type pdf)
 <use ../output/figures/topic_prob_2014-2024.pdf>
 Package pdftex.def Info: ../output/figures/topic_prob_2014-2024.pdf  used on in
 put line 83.
 (pdftex.def)             Requested size: 221.95676pt x 193.88979pt.
-
-
-[28]
-<../output/figures/topic_trends_1.pdf, id=790, 436.63126pt x 381.425pt>
+<../output/figures/topic_trends_1.pdf, id=776, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_trends_1.pdf Graphic file (type pdf)
 <use ../output/figures/topic_trends_1.pdf>
 Package pdftex.def Info: ../output/figures/topic_trends_1.pdf  used on input li
 ne 95.
-(pdftex.def)             Requested size: 327.47264pt x 286.06804pt.
-<../output/figures/topic_trends_2.pdf, id=791, 436.63126pt x 381.425pt>
+(pdftex.def)             Requested size: 283.80695pt x 247.9233pt.
+<../output/figures/topic_trends_2.pdf, id=777, 436.63126pt x 381.425pt>
 File: ../output/figures/topic_trends_2.pdf Graphic file (type pdf)
 <use ../output/figures/topic_trends_2.pdf>
 Package pdftex.def Info: ../output/figures/topic_trends_2.pdf  used on input li
 ne 102.
-(pdftex.def)             Requested size: 327.47264pt x 286.06804pt.
+(pdftex.def)             Requested size: 283.80695pt x 247.9233pt.
 
+
+[28]
 
 [29 <../output/figures/topic_prob_1991-2002.pdf> <../output/figures/topic_prob_
 2003-2013.pdf> <../output/figures/topic_prob_2014-2024.pdf>]
 
-LaTeX Warning: Text page 30 contains only floats.
-
-
-
 [30 <../output/figures/topic_trends_1.pdf> <../output/figures/topic_trends_2.pd
 f>]
-<../output/figures/gs_entropy.pdf, id=837, 436.63126pt x 381.425pt>
+<../output/figures/gs_entropy.pdf, id=828, 436.63126pt x 381.425pt>
 File: ../output/figures/gs_entropy.pdf Graphic file (type pdf)
 <use ../output/figures/gs_entropy.pdf>
 Package pdftex.def Info: ../output/figures/gs_entropy.pdf  used on input line 1
 17.
 (pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
-<../output/figures/h_entropy.pdf, id=838, 436.63126pt x 381.425pt>
+<../output/figures/h_entropy.pdf, id=829, 436.63126pt x 381.425pt>
 File: ../output/figures/h_entropy.pdf Graphic file (type pdf)
 <use ../output/figures/h_entropy.pdf>
 Package pdftex.def Info: ../output/figures/h_entropy.pdf  used on input line 12
@@ -1281,16 +1266,13 @@ Package pdftex.def Info: ../output/figures/h_entropy.pdf  used on input line 12
 (pdftex.def)             Requested size: 218.3151pt x 190.71202pt.
 ) (chapters/conclusion.tex
 
-[31]
+[31 <../output/figures/gs_entropy.pdf> <../output/figures/h_entropy.pdf>])
 
-[32 <../output/figures/gs_entropy.pdf> <../output/figures/h_entropy.pdf>])
-(main.bbl
+[32] (main.bbl
 
 [33]
 
 [34]
-
-[35]
 Underfull \hbox (badness 3826) in paragraph at lines 191--196
 []\OT1/cmr/m/n/12 Greenwood, M. J. (1985).  Hu-man Mi-gra-tion: The-ory, Mod-el
 s, and Em-
@@ -1304,7 +1286,7 @@ Underfull \hbox (badness 5490) in paragraph at lines 191--196
 
 
 
-[36]
+[35]
 Underfull \hbox (badness 2326) in paragraph at lines 273--278
 []\OT1/cmr/m/n/12 Jost, L. (2006).  En-tropy and di-ver-sity.  \OT1/cmr/m/it/12
  Oikos 113\OT1/cmr/m/n/12 (2), 363--375.  []eprint:
@@ -1330,7 +1312,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--285
 
 
 
-[37]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 351--356
 []\OT1/cmr/m/n/12 Mabogunje, A. L. (1970).  Sys-tems Ap-proach to a The-ory of 
 Rural-
@@ -1343,6 +1325,8 @@ s 2\OT1/cmr/m/n/12 (1), 1--18.  []eprint:
  []
 
 
+
+[37]
 
 [38]
 Underfull \hbox (badness 10000) in paragraph at lines 478--485
@@ -1385,18 +1369,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 478--485
 [45]
 
 [46]
+Overfull \hbox (29.46562pt too wide) in paragraph at lines 38--47
+ [][] 
+ []
+
+
 
 [47]
-<../output/figures/lda.png, id=1147, 845.1575pt x 372.39125pt>
+<../output/figures/lda.png, id=1144, 845.1575pt x 372.39125pt>
 File: ../output/figures/lda.png Graphic file (type png)
 <use ../output/figures/lda.png>
-Package pdftex.def Info: ../output/figures/lda.png  used on input line 53.
+Package pdftex.def Info: ../output/figures/lda.png  used on input line 68.
 (pdftex.def)             Requested size: 271.7835pt x 119.7529pt.
 
 
-[48 <../output/figures/lda.png (PNG copy)>])
+[48]
 
-[49] 
+[49 <../output/figures/lda.png (PNG copy)>])
+
+[50] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1407,13 +1398,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6327C0E3B9B1376041E7CDB00F679C61;5605.
  ) 
 Here is how much of TeX's memory you used:
- 30870 strings out of 469923
- 627775 string characters out of 5469171
- 1114878 words of memory out of 5000000
+ 30871 strings out of 469923
+ 627782 string characters out of 5469171
+ 1114972 words of memory out of 5000000
  56924 multiletter control sequences out of 15000+600000
  640876 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,91p,2328b,1308s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,17n,91p,2328b,1318s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 0700.pk> <C:\Users\bruno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1000.pk><C:/Users/bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1434,9 +1425,9 @@ onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bruno/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bruno/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/bruno/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (49 pages, 650204 bytes).
+Output written on main.pdf (50 pages, 650080 bytes).
 PDF statistics:
- 1316 PDF objects out of 1440 (max. 8388607)
- 230 named destinations out of 1000 (max. 500000)
+ 1315 PDF objects out of 1440 (max. 8388607)
+ 231 named destinations out of 1000 (max. 500000)
  263 words of extra memory for PDF output out of 10000 (max. 10000000)
 
